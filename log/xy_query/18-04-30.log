@@ -1,0 +1,4 @@
+2018-04-30 16:49:24 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018043016492382567","result_code":"0","sign":"FD283F491571F831B67E379C92C1FA99","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-30 16:49:29 {"appid":"wx0781c1dea664cd9a","bank_type":"PSBC_DEBIT","cash_fee":"1500","charset":"UTF-8","fee_type":"CNY","is_subscribe":"N","mch_id":"101560281114","nonce_str":"2018043016492978884","openid":"o-Rj7wPXi29UHqTunePb3eQDCJAs","out_trade_no":"2018043016491757310","out_transaction_id":"4200000119201804308926075447","result_code":"0","sign":"20F11C11A30DE3661CF1130CF7F9386E","sign_type":"MD5","status":"0","time_end":"20180430164928","total_fee":"1500","trade_state":"SUCCESS","trade_type":"pay.weixin.micropay","transaction_id":"101560281114201804301235786367","version":"2.0"}
+

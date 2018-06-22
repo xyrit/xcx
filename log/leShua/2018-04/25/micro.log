@@ -1,0 +1,12 @@
+2018-04-25 17:46:54:参数:{"service":"upload_authcode","pay_way":"WXZF","merchant_id":"6008005629","third_order_id":"2018042517465439672","amount":1,"client_ip":"14.17.41.250","t0":0,"notify_url":"https:\/\/sy.youngport.com.cn\/notify\/leshua_notify.php","auth_code":"134637350767932268","nonce_str":"OC79WIA114H14U4IVXOU7FF2EZ3TA2OV","sign":"BFF8360A9B4A4644C44C6D1D402B0E01"}
+
+2018-04-25 17:46:56:返回:{"resp_code":"0","bank_type":"CFT","error_msg":"\u8ba2\u5355\u63d0\u4ea4\u6210\u529f,0","leshua_order_id":"1804251746539342","merchant_id":"6008005629","nonce_str":"GVWZUWPTRRWOESV9HECGA08MZCCVX3EU","openid":"oRfOu1Rm92ncsW97PHgCwz0H-4Q0","out_transaction_id":"4200000080201804256037508239","pay_time":"2018-04-25 17:46:56","pay_way":"WXZF","result_code":"0","sign":"F52018CBA8EE6982AE555E66E0BE4097","status":"2","third_order_id":"2018042517465439672"}
+
+2018-04-25 17:49:02:参数:{"service":"upload_authcode","pay_way":"WXZF","merchant_id":"6008005629","third_order_id":"2018042517490293047","amount":1,"client_ip":"14.17.41.250","t0":0,"notify_url":"https:\/\/sy.youngport.com.cn\/notify\/leshua_notify.php","auth_code":"134630250343974048","nonce_str":"AL0N77JM9333O439AUB19ZLH4F4EEBJ1","sign":"BB4C9AF9AC066BF6F175267EC2EAA320"}
+
+2018-04-25 17:49:04:返回:{"resp_code":"0","bank_type":"CFT","error_msg":"\u8ba2\u5355\u63d0\u4ea4\u6210\u529f,0","leshua_order_id":"1804251749030994","merchant_id":"6008005629","nonce_str":"TMB4T0WY784K277H4OA9GMGH1LINS2BK","openid":"oRfOu1Rm92ncsW97PHgCwz0H-4Q0","out_transaction_id":"4200000051201804255851552815","pay_time":"2018-04-25 17:49:04","pay_way":"WXZF","result_code":"0","sign":"C4EF843E32B662510542ED71DD67A4D5","status":"2","third_order_id":"2018042517490293047"}
+
+2018-04-25 17:49:54:参数:{"service":"upload_authcode","pay_way":"ZFBZF","merchant_id":"6008005629","third_order_id":"2018042517495423612","amount":1,"client_ip":"14.17.41.250","t0":0,"notify_url":"https:\/\/sy.youngport.com.cn\/notify\/leshua_notify.php","auth_code":"286738163592229994","nonce_str":"F15W6ZWP5MPNBKL33R2AM7BQK69GQ6FS","sign":"0A4C147A9EA626AAFB57DE32092CF0F1"}
+
+2018-04-25 17:49:56:返回:{"resp_code":"0","bank_type":"ALIPAYACCOUNT","error_msg":"\u8ba2\u5355\u63d0\u4ea4\u6210\u529f,0","leshua_order_id":"1804251749531663","merchant_id":"6008005629","nonce_str":"9FSC4UU20ZOHSREY6K8VSHIUZ2QHNPMX","openid":"2088012344098090","out_transaction_id":"2018042521001004090589726231","pay_time":"2018-04-25 17:49:56","pay_way":"ZFBZF","result_code":"0","sign":"30FF6F76E3F76B43BAF18A03ECFC4F94","status":"2","third_order_id":"2018042517495423612"}
+

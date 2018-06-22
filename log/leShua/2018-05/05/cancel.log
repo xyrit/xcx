@@ -1,0 +1,12 @@
+2018-05-05 15:02:35:参数:{"service":"close_order","merchant_id":"6008005629","third_order_id":"2018050515020118456","nonce_str":"868G30S4MKO5TDRQ1DIC2K6T9L7OHHLC","sign":"36CF25C9E8599450257408F2AF9C013F"}
+
+2018-05-05 15:02:35:返回1:"<leshua>\n\t<resp_code><![CDATA[0]]><\/resp_code>\n\t<amount><![CDATA[1710]]><\/amount>\n\t<leshua_order_id><![CDATA[1805051502029911]]><\/leshua_order_id>\n\t<merchant_id><![CDATA[6008005629]]><\/merchant_id>\n\t<nonce_str><![CDATA[RHZS65UAHGDK1JN11WZBE9T6WZLKK5S5]]><\/nonce_str>\n\t<pay_way><![CDATA[WXZF]]><\/pay_way>\n\t<result_code><![CDATA[0]]><\/result_code>\n\t<sign><![CDATA[9BF009059EF10C05CA5C2F3F41DEADD7]]><\/sign>\n\t<status><![CDATA[6]]><\/status>\n\t<third_order_id><![CDATA[2018050515020118456]]><\/third_order_id>\n<\/leshua>\n"
+
+2018-05-05 15:02:35:返回2:{"resp_code":"0","amount":"1710","leshua_order_id":"1805051502029911","merchant_id":"6008005629","nonce_str":"RHZS65UAHGDK1JN11WZBE9T6WZLKK5S5","pay_way":"WXZF","result_code":"0","sign":"9BF009059EF10C05CA5C2F3F41DEADD7","status":"6","third_order_id":"2018050515020118456"}
+
+2018-05-05 15:19:53:参数:{"service":"close_order","merchant_id":"6008005629","third_order_id":"2018050515191850963","nonce_str":"BFTBVNPKMHPQWFYFGSEO57T2B03CVL2P","sign":"78CAF6FB1173074A9A517F30984784FC"}
+
+2018-05-05 15:19:54:返回1:"<leshua>\n\t<resp_code><![CDATA[0]]><\/resp_code>\n\t<amount><![CDATA[2420]]><\/amount>\n\t<leshua_order_id><![CDATA[1805051519107823]]><\/leshua_order_id>\n\t<merchant_id><![CDATA[6008005629]]><\/merchant_id>\n\t<nonce_str><![CDATA[SAKRMVHFBBPYX5CS4SLBO9CGD2EIH1PH]]><\/nonce_str>\n\t<pay_way><![CDATA[ZFBZF]]><\/pay_way>\n\t<result_code><![CDATA[0]]><\/result_code>\n\t<sign><![CDATA[ABD6164B876B9EEF60A739C95EFF5E72]]><\/sign>\n\t<status><![CDATA[6]]><\/status>\n\t<third_order_id><![CDATA[2018050515191850963]]><\/third_order_id>\n<\/leshua>\n"
+
+2018-05-05 15:19:54:返回2:{"resp_code":"0","amount":"2420","leshua_order_id":"1805051519107823","merchant_id":"6008005629","nonce_str":"SAKRMVHFBBPYX5CS4SLBO9CGD2EIH1PH","pay_way":"ZFBZF","result_code":"0","sign":"ABD6164B876B9EEF60A739C95EFF5E72","status":"6","third_order_id":"2018050515191850963"}
+

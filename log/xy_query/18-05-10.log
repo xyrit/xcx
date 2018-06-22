@@ -1,0 +1,14 @@
+2018-05-10 11:44:22 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011442260548","result_code":"0","sign":"6E2D20094BC4C111A404CDD0E76682E6","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:28 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011442769503","result_code":"0","sign":"04F08862A52EE43DFDFA20C98803E801","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:33 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011443363138","result_code":"0","sign":"8B6B763BC0F196946682858127F4A6E1","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:39 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011443862873","result_code":"0","sign":"13AB12ECC4755175B0D243ECC14B8322","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:44 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011444498656","result_code":"0","sign":"E11C51BF18C86770BA38E95361997788","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:49 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011444984983","result_code":"0","sign":"EDBB40A648C7CE3A54E430F5D043CB16","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-10 11:44:53 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051011445374179","result_code":"0","sign":"92A1E7C679BD0696DFA6889E8FCD65CC","sign_type":"MD5","status":"0","trade_state":"REVOKED","trade_state_desc":"\u8ba2\u5355\u5df2\u64a4\u9500","version":"2.0"}
+

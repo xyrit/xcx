@@ -1,0 +1,28 @@
+{:action('Base/head', '', 'widget')}
+<div class="about01">
+  <div class="path"><a href="#">{$info['pname']}</a>&nbsp;&gt;&nbsp;<a href="#">{$info['name']}</a></div>
+   <div class="conleft">
+     <div class="conleft1">
+  <ul>
+           <li><a href="company.html"><em>{$info['pname']}</em></a>
+               <ul>	
+	               	{volist name="son_nav" id="v"}
+	               	    	
+	               			 <li class="{$v['id']==$info['id']?'checked':''}"><a href="{:url('nav',array('id'=>$v['id']))}"><em>{$v['name']}</em></a> </li>
+	               	{/volist}
+              </ul>
+            </li>
+           </ul>
+          
+</div>
+
+   </div>
+   <div class="conright">
+      <div class="conright1">
+           	{$info['content']}
+         </div>
+   </div>
+</div>
+
+</div>
+{:action('Base/footer', '', 'widget')}

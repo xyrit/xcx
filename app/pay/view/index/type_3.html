@@ -1,0 +1,112 @@
+{:action('Base/head', '', 'widget')}
+<div class="about01">
+  <div class="path"><a href="#">{$info['pname']}</a>&nbsp;&gt;&nbsp;<a href="#">{$info['name']}</a></div>
+   <div class="conleft">
+     <div class="conleft1">
+  <ul>
+      <li><a href="company.html"><em>{$info['pname']}</em></a>
+               <ul>	
+	               	{volist name="son_nav" id="v"}
+	               	    	
+	               			 <li class="{$v['id']==$info['id']?'checked':''}"><a href="{:url('nav',array('id'=>$v['id']))}"><em>{$v['name']}</em></a> </li>
+	               	{/volist}
+	               
+              </ul>
+            </li>
+           </ul>
+</div>
+
+   </div>
+   <div class="conright">
+      <div class="conright1">
+		    <div class="input-group">
+		      <span class="input-group-addon" id="">姓名</span>
+		      <input type="text" class="form-control" id="username" name="username" placeholder="姓名" aria-describedby="basic-addon1">
+		    </div>
+		     <div class="input-group">
+		      <span class="input-group-addon" id="basic-addon1">电话</span>
+		      <input type="text" class="form-control" id="tel" name="tel" placeholder="电话号码" aria-describedby="basic-addon1">
+		    </div>
+		     <div class="input-group">
+		      <span class="input-group-addon" id="basic-addon">内容</span>
+		      <textarea type="text" class="textarea" id="content" name="content" placeholder="内容" aria-describedby="basic-addon1"></textarea>
+		    </div>
+		    <div>
+		    	<div class="tj">提交</div>
+		    </div>
+       </div>
+   </div>
+</div>
+</div>
+<style type="text/css">
+.form-control {
+	width: 300px;
+    height: 19px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top:10px;
+}
+.textarea{
+	width: 500px;
+    height: 200px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top:10px;
+}
+#basic-addon{
+	    height: 300px;
+    line-height: 44px;
+    float: left;
+    width: 30px;
+}
+.tj{
+	width: 177px;
+    height: 46px;
+    line-height: 47px;
+    background-color: #096dab;
+    color: white;
+    margin-left: 29px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 7px;
+    margin-top: 20px;
+    cursor:pointer;
+   
+}
+</style>
+<script>
+	clearTimeout(t);
+	
+	$('.tj').click(function(){
+		
+			var username = $("#username").val();
+			var tel = $("#tel").val();
+			var content = $("#content").val();
+		
+			$.post("{:url('index/index/message')}",{'username':username,'tel':tel,'content':content},function(data){
+								data = JSON.parse(data);
+								
+								if(data.code==0){
+											alert('提交成功，稍后会有工作人员联系您！');
+										 $("#username").val('');
+										 $("#tel").val('');
+										 $("#content").val('');
+								}else{
+									alert(data.msg);
+								}
+			})
+	})	
+</script>
+{:action('Base/footer', '', 'widget')}

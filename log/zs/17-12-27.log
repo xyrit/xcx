@@ -1,0 +1,4 @@
+2017-12-27 10:06:48 {"return_code":"FAIL","return_msg":"rpc error: code = Unknown desc = not find paymentcode 100006664390 ALI MICROPAY"}
+2017-12-27 14:54:13 {"return_code":"FAIL","return_msg":"rpc error: code = Unknown desc = not find paymentcode 100006664390 WX MICROPAY"}
+2017-12-27 15:08:33 {"return_code":"FAIL","return_msg":"rpc error: code = Unknown desc = not find paymentcode 100006664390 WX MICROPAY"}
+2017-12-27 19:07:35 {"return_code":"FAIL","return_msg":"rpc error: code = Unknown desc = not find paymentcode 100005505814 ALI MICROPAY"}
