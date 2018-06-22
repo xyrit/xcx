@@ -1,0 +1,18 @@
+2018-04-17 10:12:24 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710122428525","result_code":"0","sign":"D2FF7E94C667378FAF6D1DC3772FAC46","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:30 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710122936219","result_code":"0","sign":"D15EB7B838B6027491350D42947B8E4E","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:35 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710123585808","result_code":"0","sign":"21A3C3BCFB6F65FC3B73566C1E2374B7","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:40 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710124059377","result_code":"0","sign":"BA87541BB69044E176B8B5841C1DB1F2","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:45 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710124539116","result_code":"0","sign":"C8D07B5FDAE86FEAE1C720C82CCC48A6","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:51 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710125015776","result_code":"0","sign":"0FB71FAE8201FA08096CE51AA46F263B","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:12:54 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710125425645","result_code":"0","sign":"9732D9AD946AB5CF9E3B057A2F868D58","sign_type":"MD5","status":"0","trade_state":"REVOKED","trade_state_desc":"\u8ba2\u5355\u5df2\u64a4\u9500","version":"2.0"}
+
+2018-04-17 10:13:13 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018041710131355265","result_code":"0","sign":"772008B6CAF5CCB92D333E4334C3C849","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-04-17 10:13:18 {"appid":"wx0781c1dea664cd9a","bank_type":"AHRCUB_DEBIT","cash_fee":"800","charset":"UTF-8","fee_type":"CNY","is_subscribe":"N","mch_id":"101560281114","nonce_str":"2018041710131840372","openid":"o-Rj7wD7msN1nozmjZvx0FFN1WJk","out_trade_no":"2018041710130735206","out_transaction_id":"4200000079201804170353606195","result_code":"0","sign":"E428A73C29EA001D99413F2AEDFA0E8B","sign_type":"MD5","status":"0","time_end":"20180417101317","total_fee":"800","trade_state":"SUCCESS","trade_type":"pay.weixin.micropay","transaction_id":"101560281114201804175205462228","version":"2.0"}
+

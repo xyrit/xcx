@@ -1,0 +1,600 @@
+2018-05-01 09:22:19:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109221958648","nonce_str":"0J11MLH3JEBUPE1QPYW0LJDWQ5XAQP8L","sign":"8528B9FEADE8A3545FE68110CC6E160F"}
+
+2018-05-01 09:22:25:继续查询:{"resp_code":"0","amount":"740","leshua_order_id":"1805010922121389","merchant_id":"6008005629","nonce_str":"H4U4LWM02I5CGKCXAAMOOW2X6LQQE31P","pay_way":"WXZF","result_code":"0","sign":"4788614E6E2BAD341B648767E3C834B3","status":"0","third_order_id":"2018050109221958648"}
+
+2018-05-01 09:22:25:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109221958648","nonce_str":"A312HMVDJZA1OJ5QB64TQFXRL0AXQDN7","sign":"2DEF7D48C53A55B115A12F9E731EF499"}
+
+2018-05-01 09:22:30:继续查询:{"resp_code":"0","amount":"740","leshua_order_id":"1805010922121389","merchant_id":"6008005629","nonce_str":"NJBPO07E7LHQ0KW24TWN5KSFB3SKSHQY","pay_way":"WXZF","result_code":"0","sign":"3806FF578654D09819741EAEDF70510D","status":"0","third_order_id":"2018050109221958648"}
+
+2018-05-01 09:22:30:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109221958648","nonce_str":"1NP90U2CWH5WOIX38RVHDW9ECP8YE5N6","sign":"A74C73D62EF2F1D3C116F1B329DA0BBF"}
+
+2018-05-01 09:22:35:继续查询:{"resp_code":"0","amount":"740","leshua_order_id":"1805010922121389","merchant_id":"6008005629","nonce_str":"ND2SSMW4VDB2MZ325G9KU5XB40K7NOLB","pay_way":"WXZF","result_code":"0","sign":"4D58C472F766947C51A318E636798403","status":"0","third_order_id":"2018050109221958648"}
+
+2018-05-01 09:22:35:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109221958648","nonce_str":"9BPWG3X14F5TZ9MM2FTH9IFFYY6TDEKL","sign":"5BB2EE17E8577F744B644DB07FDE0D33"}
+
+2018-05-01 09:22:36:支付成功:{"resp_code":"0","amount":"740","bank_type":"PSBC_DEBIT","leshua_order_id":"1805010922121389","merchant_id":"6008005629","nonce_str":"YUKOEZV7L78W80BANGE06WAP7N0L7IP0","openid":"oRfOu1XdLgG0NWcTcEKVxthIw_Pg","out_transaction_id":"4200000136201805010113426339","pay_time":"2018-05-01 09:22:36","pay_way":"WXZF","result_code":"0","sign":"155BF8CD295659EEEBC5B62056114F60","status":"2","third_order_id":"2018050109221958648"}
+
+2018-05-01 09:45:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109450029658","nonce_str":"6I8TAXDHO7RM5MLJPO8IU341APBIMUZ1","sign":"0E66DE4FC701E118496D4DC4A9254B0F"}
+
+2018-05-01 09:45:10:继续查询:{"resp_code":"0","amount":"400","leshua_order_id":"1805010945004439","merchant_id":"6008005629","nonce_str":"F5XNYOQMV43491NLW0YWJYC372HQ4OO5","pay_way":"ZFBZF","result_code":"0","sign":"8DA08EEE622D81D5E831F3484D399241","status":"0","third_order_id":"2018050109450029658"}
+
+2018-05-01 09:45:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109450029658","nonce_str":"PDEK110W4W95I2CS3JW2GTKNXRDQHVRN","sign":"1FD4EA6E32E2E593D341A6E11F8B2649"}
+
+2018-05-01 09:45:15:继续查询:{"resp_code":"0","amount":"400","leshua_order_id":"1805010945004439","merchant_id":"6008005629","nonce_str":"WW72EMDM2US027CRCPHF0N256I7HSBRD","pay_way":"ZFBZF","result_code":"0","sign":"D9D8E46DE10759866587CF79E3413E73","status":"0","third_order_id":"2018050109450029658"}
+
+2018-05-01 09:45:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109450029658","nonce_str":"P4EIBOUBW4O6RZANRF3CQCJ6HCT31GX3","sign":"7B4309229E32DC248E62E6D60F68E160"}
+
+2018-05-01 09:45:21:继续查询:{"resp_code":"0","amount":"400","leshua_order_id":"1805010945004439","merchant_id":"6008005629","nonce_str":"J2R2FUBM2W46CLJ615Y1818SVKMG6NFE","pay_way":"ZFBZF","result_code":"0","sign":"7ED175FF82EA823D0CA4304200D6A3A2","status":"0","third_order_id":"2018050109450029658"}
+
+2018-05-01 09:45:21:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109450029658","nonce_str":"XWOCPP9MW4XWPKVOQE6WH69G7JLE87T5","sign":"16B2C5F412B9CD13DF4230D6A25ED06C"}
+
+2018-05-01 09:45:21:支付成功:{"resp_code":"0","amount":"400","bank_type":"DEBIT_CARD","leshua_order_id":"1805010945004439","merchant_id":"6008005629","nonce_str":"NU3VPFCULC0WI1B1F0D2GVA1KDIFRJQW","openid":"2088912554765534","out_transaction_id":"2018050121001004530587480814","pay_time":"2018-05-01 09:45:21","pay_way":"ZFBZF","result_code":"0","sign":"1E16301C862399E356986871A71BCC30","status":"2","third_order_id":"2018050109450029658"}
+
+2018-05-01 09:48:50:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109484973835","nonce_str":"TO4WL8IBWJV0GRYG0HIDFKNY4YLI713D","sign":"40473582F26B2ADD88D4CC23AD870509"}
+
+2018-05-01 09:48:56:继续查询:{"resp_code":"0","amount":"530","leshua_order_id":"1805010948529986","merchant_id":"6008005629","nonce_str":"QI8JRZ55BR5LGD1VDW8I98FLFB6QGMYZ","pay_way":"WXZF","result_code":"0","sign":"9D38166DB7A7E2A6759E272DA8EF7745","status":"0","third_order_id":"2018050109484973835"}
+
+2018-05-01 09:48:56:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109484973835","nonce_str":"C9RFVV8NVYB6CL48ANZ3642H72I52N7H","sign":"0F00073AACF23A09A7C4C42428825016"}
+
+2018-05-01 09:49:01:继续查询:{"resp_code":"0","amount":"530","leshua_order_id":"1805010948529986","merchant_id":"6008005629","nonce_str":"LOLPW6OWKNIZ8F4WRBRZRX8HSF5EIEY6","pay_way":"WXZF","result_code":"0","sign":"133292A137E22F02A2447FE047AEA8B4","status":"0","third_order_id":"2018050109484973835"}
+
+2018-05-01 09:49:01:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050109484973835","nonce_str":"R8XSZUKQBHD8HITW85S6RBFUPFYMJUIP","sign":"3847B3FC92AA60B797CCDD97E00105F8"}
+
+2018-05-01 09:49:02:支付成功:{"resp_code":"0","amount":"530","bank_type":"CFT","leshua_order_id":"1805010948529986","merchant_id":"6008005629","nonce_str":"SKSSE1IBZ4CNHH3WV9FL09BOJUPX3U5H","openid":"oRfOu1U6yOuz0qqfLNZRzR9wEEyA","out_transaction_id":"4200000124201805010066513536","pay_time":"2018-05-01 09:49:02","pay_way":"WXZF","result_code":"0","sign":"C55246513B5AE09647F34E2BAFA13027","status":"2","third_order_id":"2018050109484973835"}
+
+2018-05-01 10:14:33:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050110142712424","nonce_str":"2GUKPM6CJDXPXCJZZCW2CJ10JYPAKTHQ","sign":"9DC781413CE199AEDF1B194D7B0F91F5"}
+
+2018-05-01 10:14:34:支付成功:{"resp_code":"0","amount":"4710","bank_type":"DEBIT_CARD","leshua_order_id":"1805011014202720","merchant_id":"6008005629","nonce_str":"WUSM52ALUI2XTD236ASKRA74NW12X0DB","openid":"2088922338813854","out_transaction_id":"2018050121001004850597060710","pay_time":"2018-05-01 10:14:34","pay_way":"ZFBZF","result_code":"0","sign":"A290C55D5585140CC2A764188A00E98B","status":"2","third_order_id":"2018050110142712424"}
+
+2018-05-01 10:32:06:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050110320472672","nonce_str":"N5NXCDO0ZIN6MJ1KZYGWNIUKT25UIBTK","sign":"183FD2E69B543771A3CECD6F9297D049"}
+
+2018-05-01 10:32:11:继续查询:{"resp_code":"0","amount":"2620","leshua_order_id":"1805011032008089","merchant_id":"6008005629","nonce_str":"I3GA2DND22R2XAGKN0MQ7X4FSUHB286G","pay_way":"WXZF","result_code":"0","sign":"610B3499C38474E50D064B7816931A13","status":"0","third_order_id":"2018050110320472672"}
+
+2018-05-01 10:32:11:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050110320472672","nonce_str":"NB6Z1HZP0DNGDNO1HT3P0860B6YJE1CA","sign":"902718953EE4263AC736BA2CB02F20C1"}
+
+2018-05-01 10:32:16:继续查询:{"resp_code":"0","amount":"2620","leshua_order_id":"1805011032008089","merchant_id":"6008005629","nonce_str":"DYC6RDGWYAB766P2LHTXFI1F4E9NK2QG","pay_way":"WXZF","result_code":"0","sign":"304B5E5F9E661DA31BA1C158364DC666","status":"0","third_order_id":"2018050110320472672"}
+
+2018-05-01 10:32:16:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050110320472672","nonce_str":"62WPIKSRDM4Y2POY0WI492KO7F6BMCOF","sign":"4155140A6F474F8D8D04D7EDB4E59B44"}
+
+2018-05-01 10:32:22:继续查询:{"resp_code":"0","amount":"2620","leshua_order_id":"1805011032008089","merchant_id":"6008005629","nonce_str":"U2Z9O3E04F4ZTHVIKIPRD1Q9BBFKPC55","pay_way":"WXZF","result_code":"0","sign":"73ABEC57B401450BEA2C567C8C86F720","status":"0","third_order_id":"2018050110320472672"}
+
+2018-05-01 10:32:22:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050110320472672","nonce_str":"DHZC1Y3ZRW8DL3TQXOU7PV8025DYIR4F","sign":"D9E75C73BD2714CD8EA3B6B367D53B2F"}
+
+2018-05-01 10:32:22:支付成功:{"resp_code":"0","amount":"2620","bank_type":"ABC_DEBIT","leshua_order_id":"1805011032008089","merchant_id":"6008005629","nonce_str":"HE69XT5KDDBTYLI0L9B3O01YSTD2GSRM","openid":"oRfOu1dVSZcAKvGlVZrHgz-S4p8s","out_transaction_id":"4200000122201805010077338312","pay_time":"2018-05-01 10:32:22","pay_way":"WXZF","result_code":"0","sign":"DA099DD74040550BDF192E3631890556","status":"2","third_order_id":"2018050110320472672"}
+
+2018-05-01 11:12:39:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111123745808","nonce_str":"Z6PS0MTGKR8B09B7HVVKSHL94JL18AW7","sign":"55138C4821F1B243B0A315EF4C4AFA62"}
+
+2018-05-01 11:12:44:继续查询:{"resp_code":"0","amount":"300","leshua_order_id":"1805011112301494","merchant_id":"6008005629","nonce_str":"H39T2RJV9OUSVPQRDVF83EUGIK5LHHRS","pay_way":"WXZF","result_code":"0","sign":"F956C2E6D747760360F708511853D04A","status":"0","third_order_id":"2018050111123745808"}
+
+2018-05-01 11:12:44:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111123745808","nonce_str":"C8GDC7L6OYHCOITDNV94OVLBA8HSCMC4","sign":"BE17E714291AAEC7BDFAE5F23C14FB6A"}
+
+2018-05-01 11:12:44:支付成功:{"resp_code":"0","amount":"300","bank_type":"CFT","leshua_order_id":"1805011112301494","merchant_id":"6008005629","nonce_str":"MTVYWU4EJ7OQSLU0HLS6GJIIGPOZBA1Y","openid":"oRfOu1biKv-Q0uoVFAn16CGyADsE","out_transaction_id":"4200000130201805010115901351","pay_time":"2018-05-01 11:12:44","pay_way":"WXZF","result_code":"0","sign":"F127103D743A12B0403FCF4DE20DE81C","status":"2","third_order_id":"2018050111123745808"}
+
+2018-05-01 11:18:59:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"EWSJ7YWBUD0KRQLQKYLHBH1HWW9GWMUH","sign":"465D40A21820D42966A742CB9EE789A0"}
+
+2018-05-01 11:19:05:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"L9ENCYPQS74FYQ966VDCPI44DX1TH4QM","pay_way":"ZFBZF","result_code":"0","sign":"26B8C2A17FAE9F3CEA4DF4EA8B1BE744","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"3FSFNI71M1FMMTPC94H70JU0UXIB9309","sign":"97AEBCE1AB8EF807FDBB8E757BB367B3"}
+
+2018-05-01 11:19:10:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"C8YZF32D5SOGJ2K3SVY2PK1G21S2PLKV","pay_way":"ZFBZF","result_code":"0","sign":"9E45AC484B82172AB0979B0921F4C47A","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"TV0SG0HFWFDEL686PWQVRW1GGP0A9TXL","sign":"388DA943F3C7FB6CCB82D792B59EDE2C"}
+
+2018-05-01 11:19:15:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"NZD974EYQ7T7AIPK3PD6OIHI2LND054M","pay_way":"ZFBZF","result_code":"0","sign":"4A7474D53F8903167A23811A25549FE5","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"3X5B32W62V3YUZZWFGZ86SSZID255YOI","sign":"1AD34C8FF6D4CDC2D82A8B53C52E28FD"}
+
+2018-05-01 11:19:21:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"QSZ9GTXDKS2PCFZ5MH1NA2WMSUSS5N6S","pay_way":"ZFBZF","result_code":"0","sign":"64AE9C41B5537080DC94D7D8F6E1C68F","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:21:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"GI01M1SSXQFD6G4NSJCSP9DTMMXHDVIW","sign":"C3380DC1CF63BEC0315884560DEB3305"}
+
+2018-05-01 11:19:26:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"N2ULR9PVAL35DBS7BHPJX49RDLPS75E5","pay_way":"ZFBZF","result_code":"0","sign":"0AC5A753489D934DEF9AD0EF3D088906","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:26:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"TJM0FEX3E7H68WVDD2YNSPL2EFCWWR43","sign":"8A438F667681D411051F2616278132CB"}
+
+2018-05-01 11:19:32:继续查询:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"AXEWO1XQZYWEHLPP1MDC7DE5NUHNCFS7","pay_way":"ZFBZF","result_code":"0","sign":"FB40D46F4D94A873B27E1AFA53D6661D","status":"0","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:19:32:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"PV0GQ7EVEA9JVZLM5XPAKPC4RZZ4RWN0","sign":"90E47FCBEFA1E2F5470E5014AE6845F8"}
+
+2018-05-01 11:19:33:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111185749236","nonce_str":"IF0B46RVUAU73YBGVVGS6730XQKJ7V0Z","sign":"82CC9BF9F8E7F50BEAAB1E5BAF4A258F"}
+
+2018-05-01 11:19:33:支付失败:{"resp_code":"0","amount":"850","leshua_order_id":"1805011118526245","merchant_id":"6008005629","nonce_str":"5QP8HGQEJYGHTDKJCOQDLKLVRKG6BD4Z","pay_way":"ZFBZF","result_code":"0","sign":"E2D663DDC487D968101D4F842739F7D8","status":"6","third_order_id":"2018050111185749236"}
+
+2018-05-01 11:32:18:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111321696701","nonce_str":"4YF8EXY721YMO7ZV0AXTQVCBVZQUK88Z","sign":"003002D61220AB523707D480A1C04993"}
+
+2018-05-01 11:32:23:继续查询:{"resp_code":"0","amount":"1000","leshua_order_id":"1805011132108093","merchant_id":"6008005629","nonce_str":"6L113MWCSDBX03A03X303MPOHYY1XSSZ","pay_way":"WXZF","result_code":"0","sign":"CFB9B0EB9541DB067D4F7003A3C2819A","status":"0","third_order_id":"2018050111321696701"}
+
+2018-05-01 11:32:23:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050111321696701","nonce_str":"V5RKLOAPKJ502CPJ32E2RLHJAWXPKFCK","sign":"F3D57DEA209CF85F8FBF1F97CAE1416D"}
+
+2018-05-01 11:32:23:支付成功:{"resp_code":"0","amount":"1000","bank_type":"CFT","leshua_order_id":"1805011132108093","merchant_id":"6008005629","nonce_str":"WO0RQ1KAN4P9LAGF7OLTJL24A3V9NZCI","openid":"oRfOu1dVSZcAKvGlVZrHgz-S4p8s","out_transaction_id":"4200000112201805010110553578","pay_time":"2018-05-01 11:32:23","pay_way":"WXZF","result_code":"0","sign":"52A075650B299258D19F3ADC782B0876","status":"2","third_order_id":"2018050111321696701"}
+
+2018-05-01 14:37:51:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050114375023914","nonce_str":"87YGL0R43OBUYOBNQRXW15DVQ3OGIM7A","sign":"01BBB6F4EA65733A645D1A7947CA1595"}
+
+2018-05-01 14:37:57:继续查询:{"resp_code":"0","amount":"700","leshua_order_id":"1805011437531920","merchant_id":"6008005629","nonce_str":"C040GW0LGJK0R2A5QW8LWCEZYEAA7ITV","pay_way":"WXZF","result_code":"0","sign":"5C592D883B5511E372A4EC87CFEB4026","status":"0","third_order_id":"2018050114375023914"}
+
+2018-05-01 14:37:57:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050114375023914","nonce_str":"5FLYV2LV8CEC8DEM5GJ47J1HQ5AIQS6N","sign":"FD9A7DB3154A3F0BE72A3A40B6487D05"}
+
+2018-05-01 14:38:02:继续查询:{"resp_code":"0","amount":"700","leshua_order_id":"1805011437531920","merchant_id":"6008005629","nonce_str":"KTYNF3BT2RNSFRGDEG650CF8L5SUVIT4","pay_way":"WXZF","result_code":"0","sign":"8ADEB97E10956353E0A1D169E7422986","status":"0","third_order_id":"2018050114375023914"}
+
+2018-05-01 14:38:02:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050114375023914","nonce_str":"JQSM9C7DSJWOI7AVDKX8OLJ5A8KQXIRV","sign":"92522F30B569EB5AA7F67E932B0C7A15"}
+
+2018-05-01 14:38:02:支付成功:{"resp_code":"0","amount":"700","bank_type":"CFT","leshua_order_id":"1805011437531920","merchant_id":"6008005629","nonce_str":"Z6SOFE7XZLPPCROU4MIOU3V8FHSVU3XT","openid":"oRfOu1QYXf7aFNmtQiXvZ8Ei3nr0","out_transaction_id":"4200000109201805010358588466","pay_time":"2018-05-01 14:38:02","pay_way":"WXZF","result_code":"0","sign":"701F6F3F78257DE7347E2FB3776F7511","status":"2","third_order_id":"2018050114375023914"}
+
+2018-05-01 15:06:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"P54P6C9OL59WX4FITDJ6N9COL3YNDNEE","sign":"18F1DC7FE72239613CA6B5DE5AACE160"}
+
+2018-05-01 15:06:11:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"LA6XC04VWH0VB277F9DWXXG1Y6HIDLRJ","pay_way":"WXZF","result_code":"0","sign":"E0958FBA403BEDDF4217C5C54201B616","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:11:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"16GZ7MYFGI6U2YT7K8TSCNE0T8QMB1DT","sign":"0D02D0401787DBC98C531F9B1BF1065E"}
+
+2018-05-01 15:06:16:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"0IJOGV6QX4M4ZEWSYJOZSTCJR14LGP8J","pay_way":"WXZF","result_code":"0","sign":"285EEA8257CA820082BF906970379FAC","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:16:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"4GSML7KKP8EAKAP0LVF78KLWXJFKETZD","sign":"F5A7D9A051742E8D37A8D76EA6BD59E3"}
+
+2018-05-01 15:06:22:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"CUDWBV2CX1P9H22MNQQ57638374WDTL0","pay_way":"WXZF","result_code":"0","sign":"E3A6223F485E4C62584C1CF10ABDD9D2","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:22:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"83GMN5HP2SDHSPNLJLHDP6OFF9E8IMEZ","sign":"B51CB3D1419632A7C567E6B295DEE101"}
+
+2018-05-01 15:06:27:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"H5OCZ36JNP75L6Z8TNT0Y4JKS23ILTLI","pay_way":"WXZF","result_code":"0","sign":"8FE42B8FE04583B058113EBC999E37BB","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:27:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"TXNGANWKT3BSPVLBXFC80PEOHYYO6H6V","sign":"D5C58628C2F00682FE6CA4333AA24996"}
+
+2018-05-01 15:06:32:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"13M3A8XIZ5F0OVXTWNNX426OIUJ4DECE","pay_way":"WXZF","result_code":"0","sign":"C839855110A4F8252EC5142BFAE94163","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:32:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"P77SCZ1YFKVAWYF57PWV79M29S3P30RX","sign":"2E4A830CF1FC010C5721C213FAF086FE"}
+
+2018-05-01 15:06:38:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"R2VHV25Q9DO38RUPQ34ESAJA5J70LXJJ","pay_way":"WXZF","result_code":"0","sign":"CFB06A2D188428C8780B95B819313775","status":"0","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:38:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"QP2866UN3XJXN0QNFDM9EKT1TLO6JIEL","sign":"F7C39DAB75BF50956D1EF3CF166D00CA"}
+
+2018-05-01 15:06:39:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115060491871","nonce_str":"C1PSSS7SHI0SL2M07AEB1E19VARQVAP3","sign":"38545FDD0635416EFBC302BB7F85647D"}
+
+2018-05-01 15:06:39:支付失败:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506033109","merchant_id":"6008005629","nonce_str":"J813Q7V85FXPW4NHB1XA31HQHJEORSPG","pay_way":"WXZF","result_code":"0","sign":"AD8890AF644B64F0AF153D3B8B58E441","status":"6","third_order_id":"2018050115060491871"}
+
+2018-05-01 15:06:40:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115063986288","nonce_str":"45J4ZH75AYL7BR8S2DLGREEFRZA9ASGG","sign":"6D29DFB748225E5AD0BA1005A038F7FB"}
+
+2018-05-01 15:06:46:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506329410","merchant_id":"6008005629","nonce_str":"S9WLAO7PSK5KGTKDJDHCX2V6X4P2PGL3","pay_way":"WXZF","result_code":"0","sign":"86EE28AEE5F53FAFF5E6D506BD674266","status":"0","third_order_id":"2018050115063986288"}
+
+2018-05-01 15:06:46:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115063986288","nonce_str":"L2YTNHKUDA3W0F7X7X0OZS57FZMCDDQV","sign":"80C8E8D6846A19625D171C9B6C660490"}
+
+2018-05-01 15:06:51:继续查询:{"resp_code":"0","amount":"5560","leshua_order_id":"1805011506329410","merchant_id":"6008005629","nonce_str":"YCEMYDFXX47VSXRQI0O6PK6NCPVL3ZXJ","pay_way":"WXZF","result_code":"0","sign":"AA8E8394A2DF9B03B814122B0B4C7509","status":"0","third_order_id":"2018050115063986288"}
+
+2018-05-01 15:06:51:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050115063986288","nonce_str":"5L7ANP4DEO4QKP3HJ1KA5GPZFLW4WEB5","sign":"B0F8F589A79092647F1D287DF4815DE6"}
+
+2018-05-01 15:06:52:支付成功:{"resp_code":"0","amount":"5560","bank_type":"PSBC_DEBIT","leshua_order_id":"1805011506329410","merchant_id":"6008005629","nonce_str":"3CNMRZT9G2AHLK0950999ECYSI6A1GN4","openid":"oRfOu1ecQOjd9mx6p1jj9QtiuPbM","out_transaction_id":"4200000138201805010241491518","pay_time":"2018-05-01 15:06:51","pay_way":"WXZF","result_code":"0","sign":"45D59F91C5B51D46A8236E94BF29678F","status":"2","third_order_id":"2018050115063986288"}
+
+2018-05-01 16:08:04:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050116080355740","nonce_str":"FSS2CTYLAH5PWOAPN3OPRRIOUBPGBZCV","sign":"0E93DC539C68C5DF0B8D1AD2EA79EF60"}
+
+2018-05-01 16:08:10:继续查询:{"resp_code":"0","amount":"1590","leshua_order_id":"1805011608023133","merchant_id":"6008005629","nonce_str":"CSSJMBMKKHBO6K38IW6S0QVH8UH11F7W","pay_way":"WXZF","result_code":"0","sign":"7F59AA5AA7819BEF5BB434AA5217046D","status":"0","third_order_id":"2018050116080355740"}
+
+2018-05-01 16:08:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050116080355740","nonce_str":"7D0ZIN55VUMSNKUCU4AIIBA023WMQ23N","sign":"F61C5899B8DEB3B59EE3DB00D7A05D81"}
+
+2018-05-01 16:08:15:继续查询:{"resp_code":"0","amount":"1590","leshua_order_id":"1805011608023133","merchant_id":"6008005629","nonce_str":"9N871RNZ3YCEIIHUJRW9QNHSASTRNN4V","pay_way":"WXZF","result_code":"0","sign":"2A68CED2AD7129297BFB03E1D1FAABED","status":"0","third_order_id":"2018050116080355740"}
+
+2018-05-01 16:08:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050116080355740","nonce_str":"WMGUH9XNJ4J8QKFHWJP742ACGYPH5W1I","sign":"8274230A846D59A02432EAECA5C9DB01"}
+
+2018-05-01 16:08:15:支付成功:{"resp_code":"0","amount":"1590","bank_type":"SPDB_DEBIT","leshua_order_id":"1805011608023133","merchant_id":"6008005629","nonce_str":"PNPLAO0ODDVWNO1CSOX0STNF7SOIEDWL","openid":"oRfOu1Q_0Jn4udOAFOr0MY4D7W0g","out_transaction_id":"4200000124201805010246218665","pay_time":"2018-05-01 16:08:15","pay_way":"WXZF","result_code":"0","sign":"1B288C3F25DF7A88F659600BBE289443","status":"2","third_order_id":"2018050116080355740"}
+
+2018-05-01 17:06:39:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117063856609","nonce_str":"IQM5MBCKB2BDPE87KDDFEU83JPXXDOLD","sign":"2EC2E9B6CD9B82C80D321513D52BD34D"}
+
+2018-05-01 17:06:44:继续查询:{"resp_code":"0","amount":"1330","leshua_order_id":"1805011706334110","merchant_id":"6008005629","nonce_str":"D80BJSYKJWSH16GH1S5Z9ACFSR82X584","pay_way":"WXZF","result_code":"0","sign":"486BEC5CD8344146282961CD7528B8FB","status":"0","third_order_id":"2018050117063856609"}
+
+2018-05-01 17:06:44:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117063856609","nonce_str":"MX0L6U4VZ3NPW6T0M5LNAC459T7TFIXM","sign":"E60C79DC09EA4293EF3C5B01AF99594C"}
+
+2018-05-01 17:06:50:继续查询:{"resp_code":"0","amount":"1330","leshua_order_id":"1805011706334110","merchant_id":"6008005629","nonce_str":"HXRDT9ZOOGO5YS9LX2J5NYPRC4GZ22F2","pay_way":"WXZF","result_code":"0","sign":"7435861607D534E7A260594FA0060BE1","status":"0","third_order_id":"2018050117063856609"}
+
+2018-05-01 17:06:50:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117063856609","nonce_str":"MOEJ1MBKUY9XAM0GUWKKEQOK6RAQ6Y94","sign":"7A2D14FDA56D2FB678A4CEACEE685A40"}
+
+2018-05-01 17:06:50:支付成功:{"resp_code":"0","amount":"1330","bank_type":"SPDB_DEBIT","leshua_order_id":"1805011706334110","merchant_id":"6008005629","nonce_str":"P4VNYCPMQ1VHWOCNF8WAA1GQM3A85C9L","openid":"oRfOu1am1-K3XYP5jQ69iBXd7YkU","out_transaction_id":"4200000120201805010409274686","pay_time":"2018-05-01 17:06:50","pay_way":"WXZF","result_code":"0","sign":"9D24D71CE2ACD9064E499AA28120A6D0","status":"2","third_order_id":"2018050117063856609"}
+
+2018-05-01 17:25:35:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117253423083","nonce_str":"0B3VLIE44O2UF6KPIB3I8X4XRXHCO3BA","sign":"147EA6F363978C3168BA472CF6B278AF"}
+
+2018-05-01 17:25:41:继续查询:{"resp_code":"0","amount":"900","leshua_order_id":"1805011725326303","merchant_id":"6008005629","nonce_str":"1S8GABUAYTMRFICF1DGMW0RBV00BE501","pay_way":"WXZF","result_code":"0","sign":"4A419643106A47EB0DC100F7BF8C5926","status":"0","third_order_id":"2018050117253423083"}
+
+2018-05-01 17:25:41:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117253423083","nonce_str":"Y6BR514ER4K9E76UTY5E6NJL8LUA273Q","sign":"FFE256496BF2372261E801860E82BFE3"}
+
+2018-05-01 17:25:46:继续查询:{"resp_code":"0","amount":"900","leshua_order_id":"1805011725326303","merchant_id":"6008005629","nonce_str":"W8AGMU3BSM2PLKB8ZAWZVZQTIYLS1PA4","pay_way":"WXZF","result_code":"0","sign":"6F0B2EEBAC3717E937233AC5700F3981","status":"0","third_order_id":"2018050117253423083"}
+
+2018-05-01 17:25:46:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117253423083","nonce_str":"Y9BCX02SNYXXKCMV0DPUNGUQ0E3MN2WM","sign":"B2EC2A7A93D2901A68C743BA1ED9B951"}
+
+2018-05-01 17:25:47:支付成功:{"resp_code":"0","amount":"900","bank_type":"SPDB_DEBIT","leshua_order_id":"1805011725326303","merchant_id":"6008005629","nonce_str":"UYFZI08R5RUWFW9F5MZKRE4DPPI16VUR","openid":"oRfOu1am1-K3XYP5jQ69iBXd7YkU","out_transaction_id":"4200000110201805010432663444","pay_time":"2018-05-01 17:25:46","pay_way":"WXZF","result_code":"0","sign":"4C5504BA47F46245EBADE1CC9B406F53","status":"2","third_order_id":"2018050117253423083"}
+
+2018-05-01 17:28:51:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"PRXMPYADSJP3LL05EQ62KCH615RS4IAT","sign":"B1ED69435F822971BC679129DC0AA571"}
+
+2018-05-01 17:28:56:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"P2VI7TJTVE2VBQQY3L7YO3KUPWET2KK9","pay_way":"WXZF","result_code":"0","sign":"53BF90DEA8B62224EC863B6250A53762","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:28:56:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"PF0DT1GG69ATKLNDP1Q2N8XFAXJSWV4W","sign":"B1073546266627EBA213E9EE02EFCFFF"}
+
+2018-05-01 17:29:01:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"D712JVWPVMKFYFHTDIVFGLK3O8JMG3QI","pay_way":"WXZF","result_code":"0","sign":"3409582237E9D57BD18D16DE74DFB5FC","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:01:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"BM3R31PHPJ3SOUJNWO549HSXZRGKML79","sign":"DA426758EB50796820CF15FC17EAE335"}
+
+2018-05-01 17:29:07:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"HGUHKBOBSIYJTODN9UL6W6NSJGJUM9RJ","pay_way":"WXZF","result_code":"0","sign":"DD719FE903E7BAD88BE63A358A853C21","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:07:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"B6PUVNTHM0Y2DY4HX6BN7WMUIPSN26VG","sign":"BF5E9B180AEA7B9C11CB788A2DF0AB24"}
+
+2018-05-01 17:29:12:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"MUL80OJ1014GU4DICCM4B7EL0RCWAMHI","pay_way":"WXZF","result_code":"0","sign":"19234E435DEB25D4EE306BC913565EDD","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:12:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"DESIOOMBNGMZSB5Y6TRCGIW0RI9G6NV7","sign":"BDF920CD439BD9F4E4A5A3543C4916A2"}
+
+2018-05-01 17:29:18:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"39X9J1AMA7O6CE3BYT3VSUOFUISDFVR7","pay_way":"WXZF","result_code":"0","sign":"2E225037F5A61447D454B29D0DFDD326","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:18:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"LCG5EV6XOFBC8656KAXJVW2ENB736NHD","sign":"EFCADE665C2107A200945BDAFAE7C549"}
+
+2018-05-01 17:29:23:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"3LTGPRSNQ8X0IY97FAOUGWK2S8O9PRXT","pay_way":"WXZF","result_code":"0","sign":"E1A353251B427AD7344A1C0A326ECAD7","status":"0","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:23:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"JEYUDA03EMGE2PZ361Q9PR1V0G2K0IYB","sign":"84AA20BC20F5D0E3E6B1ABF1E18C09EB"}
+
+2018-05-01 17:29:24:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117285065019","nonce_str":"YIBD9HGAFFBZN35RM49C7217C49LOMFZ","sign":"5A6E66454A7351B39EEBAB90518811D8"}
+
+2018-05-01 17:29:24:支付失败:{"resp_code":"0","amount":"600","leshua_order_id":"1805011728506981","merchant_id":"6008005629","nonce_str":"ZFJUC2SUGC3RPFX3SF54CTZMSC4IY7RY","pay_way":"WXZF","result_code":"0","sign":"928122B3B43053B74381789C4CBC16FE","status":"6","third_order_id":"2018050117285065019"}
+
+2018-05-01 17:29:34:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117293389768","nonce_str":"RU085DYSIYM66YOUKGL0Q08R9P4Q5QTR","sign":"83BEE9E4C8F3A5BE5D3C6705CEFBBB8A"}
+
+2018-05-01 17:29:39:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011729327969","merchant_id":"6008005629","nonce_str":"CMECAUTWGGPAT9FB1URH65PQ5KD6PWSK","pay_way":"WXZF","result_code":"0","sign":"C68D4FDB8A265D07DA8418C8E3B25A51","status":"0","third_order_id":"2018050117293389768"}
+
+2018-05-01 17:29:39:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117293389768","nonce_str":"9OVE6DB03QFKLZV7QD2LASI7Z66J0UU4","sign":"8F84692EB5C5818317BF9405D7AFCFB0"}
+
+2018-05-01 17:29:45:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011729327969","merchant_id":"6008005629","nonce_str":"JHR3LB9R8P4JPLVWSXLIWIPZDZJCHZPY","pay_way":"WXZF","result_code":"0","sign":"310DD997562C6215AB9D5020CEFAB10A","status":"0","third_order_id":"2018050117293389768"}
+
+2018-05-01 17:29:45:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117293389768","nonce_str":"ZISDQBZPCKCDB6N95JHK6RSJVMN5QNRP","sign":"AF753CBB332BBC9172132F3AD160B63A"}
+
+2018-05-01 17:29:50:继续查询:{"resp_code":"0","amount":"600","leshua_order_id":"1805011729327969","merchant_id":"6008005629","nonce_str":"JPJR68FYVXDQNE61O8J3HHP8J4W2LVHQ","pay_way":"WXZF","result_code":"0","sign":"41FE0B2160FD7BD8FC34A8C2ECC5A4E9","status":"0","third_order_id":"2018050117293389768"}
+
+2018-05-01 17:29:50:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117293389768","nonce_str":"TJJAHIXOES93Q5L7F405XTFJNT57WA0M","sign":"1B39911D548D22205237FB3152541EA3"}
+
+2018-05-01 17:29:50:支付成功:{"resp_code":"0","amount":"600","bank_type":"PSBC_DEBIT","leshua_order_id":"1805011729327969","merchant_id":"6008005629","nonce_str":"SB9R6LY7MJHFWNGI0H0U57235SY7C1GI","openid":"oRfOu1T7RvAWgCW-Gw9m1OaUIboM","out_transaction_id":"4200000131201805010023115232","pay_time":"2018-05-01 17:29:50","pay_way":"WXZF","result_code":"0","sign":"7FB94570061E86F5FD13E8530D26295B","status":"2","third_order_id":"2018050117293389768"}
+
+2018-05-01 17:57:18:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"HF1P8MZRDSFE72N401QGR3X2Q2J9UXGG","sign":"0923A14C4BC8DEDA293FBF79ABF53AB7"}
+
+2018-05-01 17:57:24:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"DQPVOHVOID00F5IEWVNK7UEL8VGOX84O","pay_way":"WXZF","result_code":"0","sign":"A67CE14D57587364981BB9E4801DB0A1","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:24:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"6UL4MWU3NSPTNM529BUBLKBAS2DS5TLV","sign":"AEC06B4836D765B1C71473F186F20914"}
+
+2018-05-01 17:57:30:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"XXM6JJ4YW1KV2SDOG3UEJSXVBMZ1M3RT","pay_way":"WXZF","result_code":"0","sign":"3BAD939234FBA65462AEEFC8AFE10039","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:30:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"KDOLJKW0L4KJQC1TP78VFGC4R10DIMSK","sign":"9A8A4F15DA5D01BB5C26884165A85190"}
+
+2018-05-01 17:57:35:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"RU79OLHFD1TCH8ABZB4T3TXIQTV9N465","pay_way":"WXZF","result_code":"0","sign":"147D0FEBEC61284D75F62B34CC5EA5D8","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:35:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"FDULWP74DKPEZV4J60IY6OAME7IV5KM9","sign":"4F1C98172F5BBAC35C6A0314D12A39F1"}
+
+2018-05-01 17:57:40:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"QUTW1KA2VHQ12IK4LHPCEU5QU532R1L2","pay_way":"WXZF","result_code":"0","sign":"0BAE4E1C4D769CE71D70184215D76BB1","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:40:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"XXN0H3GLSUWNDNNEEGZ1XMOQTDA1ICKO","sign":"196E5C76E9C679E5CE0AACAB9AD94037"}
+
+2018-05-01 17:57:46:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"FR85Y72P57FCF5QSB6EP9ZELL2RDFJDS","pay_way":"WXZF","result_code":"0","sign":"18F050549CA6C1FE0E0E91B7B5F9BE32","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:46:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"P3PIGEQXTLS6X2SP14XRKP8TJO0DW9ZR","sign":"20909777D316B46C98766035C2E8C50C"}
+
+2018-05-01 17:57:51:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"DVHX6S199W9QXH6WPLNQX85FQL74YFKS","pay_way":"WXZF","result_code":"0","sign":"A4DCCD0128C7CA597C03348C6555657C","status":"0","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:51:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"1DFLCKS47VSLMN16VZNBQUCP7O7N4IQI","sign":"4BD01445B62CACD693A34D6B353A33BB"}
+
+2018-05-01 17:57:52:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117571735192","nonce_str":"VGAJ3UJMO82YS1TBZHUCHJECJLVC4YXM","sign":"3832408345B58B19FB293F3C2DB48321"}
+
+2018-05-01 17:57:52:支付失败:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757137074","merchant_id":"6008005629","nonce_str":"740P3PY4KDGJ5K6AJH3K7GVR1LLPSHD5","pay_way":"WXZF","result_code":"0","sign":"2472F09A0517D9AB156FBBAB865BEF3B","status":"6","third_order_id":"2018050117571735192"}
+
+2018-05-01 17:57:56:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117575581243","nonce_str":"TA8NM9GWNYTT9DR8SES41DZMAN3DJHRX","sign":"FEA8F47723B5921777C98F646E2AE7DD"}
+
+2018-05-01 17:58:01:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757537384","merchant_id":"6008005629","nonce_str":"8XEBH634QK4CW0P2C8R3IZC88MIWPVYF","pay_way":"WXZF","result_code":"0","sign":"0B33E12D6D8137C8FB63087CCEF7464A","status":"0","third_order_id":"2018050117575581243"}
+
+2018-05-01 17:58:01:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117575581243","nonce_str":"K1ACQXNOCE26DQ47EXA9P6WAMM2W07WA","sign":"6EC49069FFE4413E2BF7447DE37E6BD3"}
+
+2018-05-01 17:58:07:继续查询:{"resp_code":"0","amount":"1950","leshua_order_id":"1805011757537384","merchant_id":"6008005629","nonce_str":"3J5CA8UP32U3B8MM7FW5TWVL7IN2RFX6","pay_way":"WXZF","result_code":"0","sign":"FC9C3720AC2B5057DE775A57193847D6","status":"0","third_order_id":"2018050117575581243"}
+
+2018-05-01 17:58:07:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050117575581243","nonce_str":"SX17YX98G9UTGE84W5XASQW04KDQEN92","sign":"268F8F3F8CD391F23FC42486D16B5F2A"}
+
+2018-05-01 17:58:07:支付成功:{"resp_code":"0","amount":"1950","bank_type":"BOC_DEBIT","leshua_order_id":"1805011757537384","merchant_id":"6008005629","nonce_str":"EB6TNCMCLNMXNEUL3J2O7CE41S5PD62B","openid":"oRfOu1ZDdyatUGwSRaH2NI_CZVDc","out_transaction_id":"4200000134201805010198487300","pay_time":"2018-05-01 17:58:07","pay_way":"WXZF","result_code":"0","sign":"7DA68F0EDF32A698289880598621ADE1","status":"2","third_order_id":"2018050117575581243"}
+
+2018-05-01 18:14:04:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118140377913","nonce_str":"NZPL9IYOEB9W6FMLLQ85U7XYX1Y66R00","sign":"467D1CA18C2914859CCB5F4865A55A1C"}
+
+2018-05-01 18:14:09:继续查询:{"resp_code":"0","amount":"1110","leshua_order_id":"1805011814027442","merchant_id":"6008005629","nonce_str":"UL8TS116GOVNZ4OPNEY6GYDNUPT82PIF","pay_way":"WXZF","result_code":"0","sign":"8C8AC0A22CD4CA2AC0D61EF0161E7D47","status":"0","third_order_id":"2018050118140377913"}
+
+2018-05-01 18:14:09:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118140377913","nonce_str":"89X6E3C18FF23K2SK4TE3VOTW2VTK7NY","sign":"6E7377298ABF7986FC9C67262E6D4FCF"}
+
+2018-05-01 18:14:15:继续查询:{"resp_code":"0","amount":"1110","leshua_order_id":"1805011814027442","merchant_id":"6008005629","nonce_str":"7OZ5HIV90HGHQQGBZ53V0NIFJIKSZKXP","pay_way":"WXZF","result_code":"0","sign":"420188E2CA87B7EABD218FBA4AE2ED31","status":"0","third_order_id":"2018050118140377913"}
+
+2018-05-01 18:14:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118140377913","nonce_str":"ACF0LHFJTTUGYRN180MCG5SR06O1Q5EH","sign":"FD6F51D40B6C3113359B9052B5E2405D"}
+
+2018-05-01 18:14:15:支付成功:{"resp_code":"0","amount":"1110","bank_type":"CFT","leshua_order_id":"1805011814027442","merchant_id":"6008005629","nonce_str":"MNG8BDF16B5PDJ8QZ0629QC06L0BUABW","openid":"oRfOu1TMuw5NFGpMSTVbQyr4or3E","out_transaction_id":"4200000109201805010555825831","pay_time":"2018-05-01 18:14:15","pay_way":"WXZF","result_code":"0","sign":"EEA6406A73FEAFD8DF0012E7BB9A0210","status":"2","third_order_id":"2018050118140377913"}
+
+2018-05-01 18:36:53:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"35AOJKLIARZ5QHA4O92KEAVNKXF4XXL3","sign":"DBD54B62965AB6071B5281923D923E91"}
+
+2018-05-01 18:36:59:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"TNMSEJ809DTE997J0QD95XNXSWRL74ZX","pay_way":"WXZF","result_code":"0","sign":"4063C3C3B3490D0A7D65611548BF216A","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:36:59:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"J8VXGFOWHESVB9OTUM87V49L4QMT7CX3","sign":"1D68B5043949D1552FEA5A2BBC26E149"}
+
+2018-05-01 18:37:04:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"TPMM6ON9G2QDR1L3NAQW3GJQ1R4DD0ET","pay_way":"WXZF","result_code":"0","sign":"DD31A8A3318DCA0CA78B42D5A9DA6A59","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:37:04:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"CZCFN22UAHFXMQM1L4OBWC7WPYGGGDHP","sign":"C1C751988B58CA6D21D05EABA660C791"}
+
+2018-05-01 18:37:10:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"J72493QFPHX5TLLEXWNI85ABIEU909X5","pay_way":"WXZF","result_code":"0","sign":"3EACB1D4899213F2AA75084020CCC094","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:37:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"GCVYBRMCLLUEKSJ4704JWIFJFD2SBN1T","sign":"B701B8721D5BF89EF79909DB87FFB89C"}
+
+2018-05-01 18:37:15:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"YTBW1PVC4264GQLXOFSRNMIUQAR855LC","pay_way":"WXZF","result_code":"0","sign":"FCBE2166ABE1390BB49CD27B7A66DAAB","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:37:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"MLAHJUNNUMS8QA8B0KHVIHRE8FKQDE5T","sign":"716486758D1CAFC90993575F7F5E2C48"}
+
+2018-05-01 18:37:21:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"UUW9OY9U0KMNBG7CPQPXAZ7XJFIYMC0V","pay_way":"WXZF","result_code":"0","sign":"7483205CDD4B6D26C1280B93C7D99A24","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:37:21:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"IONFS8VNUCBSTN9OMO18OPB3TJ4B2802","sign":"F8D4E5371D31CB5F7C93FA841D610AD1"}
+
+2018-05-01 18:37:26:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"7OUIGSUVGSQMCU9WEAK10GJYP1YTAA32","pay_way":"WXZF","result_code":"0","sign":"8650A241CF639A4D4B8E59039A841AE9","status":"0","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:37:26:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"9AR1AOOXUXYYC1Q2TMSKMFA2C6OEEDMJ","sign":"75FF2969A663BB50FA3042DC370317A5"}
+
+2018-05-01 18:37:27:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118365234060","nonce_str":"80T19M6EO5O8GA42ZM8FYCQ1S1H9JEFY","sign":"DCD3BF30AEB875C7CF8EAC880A7B56C0"}
+
+2018-05-01 18:37:27:支付失败:{"resp_code":"0","amount":"150","leshua_order_id":"1805011836501193","merchant_id":"6008005629","nonce_str":"9B2ITB77PEIYY61G2KE75QSV1WO0T1CJ","pay_way":"WXZF","result_code":"0","sign":"5865F082FC0CD759C0EC57031599CB30","status":"6","third_order_id":"2018050118365234060"}
+
+2018-05-01 18:43:37:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"5GO63A58VVUZYVLLJM51WC4KZ93P1WXK","sign":"918B2B81C5FB20EE07B013989D3571EB"}
+
+2018-05-01 18:43:42:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"PWD256FD90TJXY9L36STECVP4CCVH3T2","pay_way":"WXZF","result_code":"0","sign":"331D63041D7F9A724DE8335ABA2C6D1C","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:43:42:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"GMO2ZDT54GI2XKFPLS9FCV2QEG9APBFP","sign":"BB02CCB2C18D16FBAFA4A5C7392843AD"}
+
+2018-05-01 18:43:48:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"M61JIRGDSH5JH2ZDASXVG9JIA95HGHX3","pay_way":"WXZF","result_code":"0","sign":"D22FCD66DA5281FF8A91C5942830F41B","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:43:48:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"3MFAXPGXWDI9HYFHP16UHML4LD0MQZWS","sign":"0171B4D061F5D8D8B8BE3E803D49BD95"}
+
+2018-05-01 18:43:53:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"XSL3QX1Z3QXWBEZ0SVE2FSSEVQNJRUOG","pay_way":"WXZF","result_code":"0","sign":"35C451303862E0169BDB314614D89577","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:43:53:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"9FOGDOGL466LY0GAWPAIOUILM22B052R","sign":"36050F99EB97DC9FA9A4183B3E4531B8"}
+
+2018-05-01 18:43:58:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"WFPVZA4N3LWYSKDOW6TAHR5SVGL53TVR","pay_way":"WXZF","result_code":"0","sign":"1A4415CAF9E8E9647CF885105FF866D7","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:43:58:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"ZGZT163KOOS5FQ9KZ37LQ08RN4Y65PRJ","sign":"F4192CC7B9EADE47B91BC306B08736E2"}
+
+2018-05-01 18:44:04:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"FT806YLHQH6WXSGAVYLH9JDX0OR7V6AI","pay_way":"WXZF","result_code":"0","sign":"F74C6AF079A97C33D010E74B1DE18B25","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:44:04:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"R3QZJWRZV7792EE2JA1UAQKKSO74HTG1","sign":"921A3F92A7C56700DF863C7711F39AA2"}
+
+2018-05-01 18:44:09:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"F1UQOGMK8KO8P7C1WITFGW5E1HIMLC0B","pay_way":"WXZF","result_code":"0","sign":"D1C19DA6667AD6925028C2F1B2CBEE4B","status":"0","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:44:09:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"ACC2ER5S626Y94KWUXD5IFLDO09IM0EM","sign":"47A81D4E4902D1CA36801E854ADCA734"}
+
+2018-05-01 18:44:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118433541549","nonce_str":"ENZSCLB6DKWLOO2VSPZ42S0E5FYSZJBD","sign":"968099483988846D577836427417A775"}
+
+2018-05-01 18:44:10:支付失败:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011843337716","merchant_id":"6008005629","nonce_str":"445ZTNVA5KYCOQLV0X8VDFRSG7YIOJ91","pay_way":"WXZF","result_code":"0","sign":"549CE9CF146229E9777A3FE0B235A97A","status":"6","third_order_id":"2018050118433541549"}
+
+2018-05-01 18:44:16:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"BQM27VA9WB1AXCCFJ1HQO0P8KV0FXEZF","sign":"6A92B5938355B03EAC81D4DE23DD7840"}
+
+2018-05-01 18:44:22:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"21A649V02OMETNZCX87N068YFJPWR2VJ","pay_way":"WXZF","result_code":"0","sign":"EBFF2ECF7C79DA536222CCA2EBB05A36","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:22:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"BYDENFLLWIUYG3Q5XNEI7BYTUNSSXTP8","sign":"B8D25A4CB76B8C20812C37F2ED581F37"}
+
+2018-05-01 18:44:27:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"83W629G79SWP3XPZPLN3KXJKU5PXK8BO","pay_way":"WXZF","result_code":"0","sign":"0437EFD9181E3D0750A7C85A411F5307","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:27:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"B9IQ4VPQSS6AWKDH0ICWTLY3IDCV7XFU","sign":"35304C1B3B13F6FAD9C8FB5EC9A86E4A"}
+
+2018-05-01 18:44:33:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"0KI20XY00AO2BVTAM0TJH1JXJ82TCAY5","pay_way":"WXZF","result_code":"0","sign":"B0ABD855E4707CC590DCEE7777F83C63","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:33:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"BAXMKM36KZQ3DPUNTBOG4E4UFWHKD6CU","sign":"3906BA8E4ECD2BD118469260467CFA59"}
+
+2018-05-01 18:44:38:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"AOBOVI3DTOP89SER7KPHJN6MKNX4M143","pay_way":"WXZF","result_code":"0","sign":"FFCDD99684912A3200B411FE1B96ADC7","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:38:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"EDQRHRZP0UMBT9QI6OYERL2P9MN76RB9","sign":"65AF1E92580921CD5254A78A6D5A9491"}
+
+2018-05-01 18:44:43:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"11FQT9JU7XB2GCSC7ISWEW5SZLY9NVK9","pay_way":"WXZF","result_code":"0","sign":"3CCFAEB7860FC1D5F4EAC27EF810126B","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:43:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"8TIZDG2183UA0IHC8DM9A9UPLTB7QBSG","sign":"1CB99F5E61B4AECAA558F0D3C1F7DBDF"}
+
+2018-05-01 18:44:49:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"UB87TCB2CEG2CQYANHKXSHLITR43GXAY","pay_way":"WXZF","result_code":"0","sign":"4F4F9A46B0B312F0368FFBAD7AB15214","status":"0","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:44:49:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"BQI6FEVBD2ASVT37IKCBEKI58L2S2ROK","sign":"AA9CD02060AE24D5803EFB00BDAD3A10"}
+
+2018-05-01 18:44:50:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118441575847","nonce_str":"0QZLVKUZ5JI2LVBOWJ8PMA9EP52R5JGJ","sign":"07F67566E70C2EF1B11F7DD5E5100EE0"}
+
+2018-05-01 18:44:50:支付失败:{"resp_code":"0","amount":"1100","leshua_order_id":"1805011844120238","merchant_id":"6008005629","nonce_str":"URMOXX06UUOSOPHGQ79E347H4FFAVN1S","pay_way":"WXZF","result_code":"0","sign":"E9A79B6ACD600303896990881DB42354","status":"6","third_order_id":"2018050118441575847"}
+
+2018-05-01 18:51:29:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118512843049","nonce_str":"9I1E6QKO4PI701Y0HQ1DW3H3PYYD7OAA","sign":"9FD2B2850BF8F89293FAD334D4B58266"}
+
+2018-05-01 18:51:35:继续查询:{"resp_code":"0","amount":"150","leshua_order_id":"1805011851206168","merchant_id":"6008005629","nonce_str":"OQLPZH1T5URVTFQI6C47MDYJBCZBIWUT","pay_way":"WXZF","result_code":"0","sign":"AB0846F941DBBD59B9AA506BBAB431C0","status":"0","third_order_id":"2018050118512843049"}
+
+2018-05-01 18:51:35:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118512843049","nonce_str":"MRZLAWPB4QK2CV6IZLJ5MU0A0TEUUN16","sign":"46519291F60108AA5BB5439194B48C9F"}
+
+2018-05-01 18:51:35:支付成功:{"resp_code":"0","amount":"150","bank_type":"CFT","leshua_order_id":"1805011851206168","merchant_id":"6008005629","nonce_str":"5ER6QAZTFCVRN6OLTLJRYUNIN3PY14QU","openid":"oRfOu1a14gnSN0YQOcXt0aeOaB1E","out_transaction_id":"4200000132201805010215309023","pay_time":"2018-05-01 18:51:35","pay_way":"WXZF","result_code":"0","sign":"A0589A0DB1F7EDDCDAC2535302989B6F","status":"2","third_order_id":"2018050118512843049"}
+
+2018-05-01 18:53:47:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"U20VG35AGDS1YF0G9U7SN3YZ83OQ6QBZ","sign":"3A7FC0E51843CA8205DF60D8AA3C1979"}
+
+2018-05-01 18:53:52:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"0W7VDTUOSC8H8JQFBZY0TRQG2T7K1OGO","pay_way":"WXZF","result_code":"0","sign":"32B6116EE5970F0D5F2D693A73DD2D35","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:53:52:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"9P527ML1U4ME174ODMTL1FQ2TD4FNJ8B","sign":"3BFB11BE087F8A0D150D2DEC0888C6E6"}
+
+2018-05-01 18:53:57:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"JFH0M58YWTJB8S0WHW104DY1EYACEK7M","pay_way":"WXZF","result_code":"0","sign":"4861263ED941B595B771B1564F63A24C","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:53:57:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"EB7C4USLBVNB9WVG6LHFLC8T7OH8UTLU","sign":"D1E9DC3AC219D4B74D1850388BAB1B26"}
+
+2018-05-01 18:54:03:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"2S9W8P2NO0BM0401X6U7ODG93LA0VMGW","pay_way":"WXZF","result_code":"0","sign":"626BF9D6839C896B4C6C1D5A4DEA821C","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:54:03:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"X0OJVCQ48OLBYFW08CZGJL41EG9PKTPP","sign":"3046AD2D9B1ADBBD400F38C0224A8962"}
+
+2018-05-01 18:54:08:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"SHIQXQNG0SPYWRKTHGUB0TADOWNFSR9Q","pay_way":"WXZF","result_code":"0","sign":"7F45ADD82F931FE0268B99327D4A428C","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:54:08:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"ICFPS64XXT4BI22FE2H08HJGIKCFR0JN","sign":"688C4F3F4F81A9065933A839CE484EB0"}
+
+2018-05-01 18:54:14:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"M5E5078OYSFWU1DLI2LZIPJ3BRQORGQ4","pay_way":"WXZF","result_code":"0","sign":"29AF3EBC6D2B3909E309DA6F7D443D35","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:54:14:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"QVMCAAJ18R22WBJIPWDHJB2RBQXO3JKV","sign":"3CCA22EE273008468ED7CBC463107871"}
+
+2018-05-01 18:54:19:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"AHL2TDMR3Q7X9VKW6VC267PJ7EQ40GD6","pay_way":"WXZF","result_code":"0","sign":"8266CE14F7863CC7D047A048968B3B99","status":"0","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:54:19:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"AXHAGCKK0VGE8N26XGYOZEFP9KSGMV6J","sign":"A0ABCB207102B6FA4C219A1CB1D79597"}
+
+2018-05-01 18:54:20:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118534523387","nonce_str":"M3PJBNFCRSGU1KQBVJ9UYTX3JYVFSRCR","sign":"28E3E3E1C1521E8458DA1E3706E5899D"}
+
+2018-05-01 18:54:20:支付失败:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011853424024","merchant_id":"6008005629","nonce_str":"C5VLTBLZ5869H8VKL1VBMMYP34ZGYKX0","pay_way":"WXZF","result_code":"0","sign":"16B43044FEE04AB989968EBEEEF00266","status":"6","third_order_id":"2018050118534523387"}
+
+2018-05-01 18:54:46:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"2KIJ7HTPGY0HQMC47ULROKUBUKZXVN88","sign":"8BBAA92D2D71C52C8D606D69A43DDA9B"}
+
+2018-05-01 18:54:52:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"F76XHU0D0PTP3O5X0J45VSQG4L08E274","pay_way":"WXZF","result_code":"0","sign":"380FD22FE59A9AA2D98798C01F8A09DF","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:54:52:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"E8DOLJNVCDGEI71R2XYF0QGVJUUIDYH1","sign":"89D38138929269D3A81C5CBE83D46973"}
+
+2018-05-01 18:54:57:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"88GA24ITS450Q614CAHYDMV6411UFWK4","pay_way":"WXZF","result_code":"0","sign":"966371BAC244842DF0E2C48FAD00E7F2","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:54:57:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"HV7TXIDJOU97ONKNUQDVHJL1NHMDFR71","sign":"312BA028B409090652CA1A8AB2B05F9B"}
+
+2018-05-01 18:55:02:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"RRFCVV5E0WEY7C942N9FPJK9WBTVN1IH","pay_way":"WXZF","result_code":"0","sign":"448B015283013E296444D4067F9AA9BC","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:55:02:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"77W2CK4GEG5C2RY5NGF63JEXAYTM5A1O","sign":"2B37F1A7DA78DB303E1DF26C2F330914"}
+
+2018-05-01 18:55:08:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"PWX3P8RJVOR1OR33Z97SHUB4B7M3TFDY","pay_way":"WXZF","result_code":"0","sign":"1BCB7F11EBF3671A2365D301D06C2273","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:55:08:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"1OH5WGJNDVYWGUN9QJQYLX5BV6H7J8SU","sign":"1EF4C3AFEE6D6EDDB5D3AD2AC072DEE6"}
+
+2018-05-01 18:55:13:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"LLP517HGY5FE18LQA9TP1G9J1II9YJD5","pay_way":"WXZF","result_code":"0","sign":"CA9BAC813D49581CDB3FC993D87F2AD2","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:55:13:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"MCQGLE9SE0UO6GCH3P9V7WK96CDGQRSV","sign":"8224E5AC0EAE1A176D8316C01BD5AF98"}
+
+2018-05-01 18:55:19:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"4POZG84L52F4TC17TY7I1FFI8H9KOQ26","pay_way":"WXZF","result_code":"0","sign":"6E2E1A019E04483ED397102AB89D0F73","status":"0","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:55:19:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"TKFKWN01KJRI7CMTK8RIM1SHMQ07RPF6","sign":"C59E5FC3F24C29E1A826A55CF3EFBEC6"}
+
+2018-05-01 18:55:19:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118544587669","nonce_str":"93JYGBTCXTR21NBE6XB3596HR3KW4FDP","sign":"1E3E77DCFC6F7FDCE00BAD2F249D2BE6"}
+
+2018-05-01 18:55:20:支付失败:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011854432531","merchant_id":"6008005629","nonce_str":"SN99FKHSZMO63LDY8GW0BIPV1SI6IARA","pay_way":"WXZF","result_code":"0","sign":"AB3CB4CCC23426041031986FCA3A535B","status":"6","third_order_id":"2018050118544587669"}
+
+2018-05-01 18:55:43:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"YT3HTQFF7Z7N9IUO2R9D3GZVDBBKP6IN","sign":"5833DB471AD9D9950249F04787F23CE6"}
+
+2018-05-01 18:55:48:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"KRNXWVZRTFGTBIXWFQL01V3LBGGJJJRR","pay_way":"WXZF","result_code":"0","sign":"DC04AF016391BDF3F057B753C56B34B6","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:55:48:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"4KND0U7RRV3RF7JG8KW6R6VAR8LCS6YJ","sign":"6EF18E61D291094E5816985F3B133D14"}
+
+2018-05-01 18:55:54:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"WKK160OSTBV01O9YJDBI6I27JQT8LGFO","pay_way":"WXZF","result_code":"0","sign":"10A4225FBB7BD60A4B460E60CDE493A9","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:55:54:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"4DACUE8SEQC4WIF91LF7HX5EDTKRQ2IL","sign":"D289E5D6268CD694408D8C2CE10FC316"}
+
+2018-05-01 18:55:59:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"8O7OUHH69QBK6294OHT0XND590CZ2KZF","pay_way":"WXZF","result_code":"0","sign":"EBB65E4995E2EDB88801A4AC7B6E1DFA","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:55:59:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"89TNWJC63OXUVKKY6A7Y8HZWY6OMRXK9","sign":"B4E83D33F44544B63437661DDA7B15A8"}
+
+2018-05-01 18:56:05:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"1FAXCA3P8HGMQOVQFEMGX6DGMZHG1G2I","pay_way":"WXZF","result_code":"0","sign":"C3B89FE764E91C16689B7E5601D072F8","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:56:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"RGYEK5POHHH4SHVUZHOOR5WILFWHKHIB","sign":"D8C497709C30C0DE0D1724C69FABFC92"}
+
+2018-05-01 18:56:10:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"AB08DGLNHCOHIHYOA73XRXLLGYJRD98J","pay_way":"WXZF","result_code":"0","sign":"FB87884F47F85117CE89B31E4C5476AD","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:56:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"NKBR0OSXIOZ7N517U6TZVAVOV7B1KZKA","sign":"C29A7BD98AEA42D31BED761B8CFDE733"}
+
+2018-05-01 18:56:15:继续查询:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"G1VZH7KROJCED9NK7Z9NK9P47S81FB4G","pay_way":"WXZF","result_code":"0","sign":"0A415EF3F83B9C39837E1CEA719F6DCC","status":"0","third_order_id":"2018050118554112982"}
+
+2018-05-01 18:56:15:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"F0NBKYHMH9SAPKVE8W6MCQ10QMF987G0","sign":"67296CA77F68A62F4D0550064EDF3FA5"}
+
+2018-05-01 18:56:16:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050118554112982","nonce_str":"NOJVUIKQ3T462Z9Y6DYVY4Q42QPYBUD3","sign":"555B2990EFE71E6D5C27F31D542F155F"}
+
+2018-05-01 18:56:16:支付失败:{"resp_code":"0","amount":"7000","leshua_order_id":"1805011855407505","merchant_id":"6008005629","nonce_str":"27063G8TCR1TE0GOXS9A5BH1LBHUJBRO","pay_way":"WXZF","result_code":"0","sign":"A36A443564CB90E9C949D1226647DCC1","status":"6","third_order_id":"2018050118554112982"}
+
+2018-05-01 19:13:54:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050119135214647","nonce_str":"YRCH387ERBFMUI4TI4HFDSV0LNXYKQWY","sign":"13EF208AA6A8FBD879DCCE0D8FB03CED"}
+
+2018-05-01 19:14:00:继续查询:{"resp_code":"0","amount":"11600","leshua_order_id":"1805011913530272","merchant_id":"6008005629","nonce_str":"C70FBD89K8FOZPOYZ4ZM51FUH91EG16Q","pay_way":"ZFBZF","result_code":"0","sign":"41D31FCE3319094B3A51E538A9FE9A64","status":"0","third_order_id":"2018050119135214647"}
+
+2018-05-01 19:14:00:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050119135214647","nonce_str":"9489JPGTJJF5XGGU08SXMDU3NW49S6JI","sign":"308DEFF5B7FFAD858CA32402180BAFEE"}
+
+2018-05-01 19:14:05:继续查询:{"resp_code":"0","amount":"11600","leshua_order_id":"1805011913530272","merchant_id":"6008005629","nonce_str":"M56MCSQAKY2V9BAWU133A6S2W7BBRFW3","pay_way":"ZFBZF","result_code":"0","sign":"5450FC70C44CA18C581E53706BD9A224","status":"0","third_order_id":"2018050119135214647"}
+
+2018-05-01 19:14:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050119135214647","nonce_str":"MZT9LMRKERUJZUR16GR01B2WLM6CS1NO","sign":"9489AB3590CDF60B056F688AAB8406D5"}
+
+2018-05-01 19:14:06:支付成功:{"resp_code":"0","amount":"11600","bank_type":"ALIPAYACCOUNT","leshua_order_id":"1805011913530272","merchant_id":"6008005629","nonce_str":"Y7U5Z3CGMSFOGB1R3XN0U8Q6YA34OO8R","openid":"2088122628788750","out_transaction_id":"2018050121001004750587183557","pay_time":"2018-05-01 19:14:03","pay_way":"ZFBZF","result_code":"0","sign":"28921FB627A39E6015DDE5F0C4C7BE4C","status":"2","third_order_id":"2018050119135214647"}
+
+2018-05-01 20:19:25:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120192325122","nonce_str":"1R5KDPKR32GW7AH7XYFU2JO2MUC3ZQQG","sign":"21BE614725546C353C94260130244FDE"}
+
+2018-05-01 20:19:31:继续查询:{"resp_code":"0","amount":"1100","leshua_order_id":"1805012019204109","merchant_id":"6008005629","nonce_str":"2U14YKNUAOTJBRCYP3LAZU2U96Y79IRU","pay_way":"WXZF","result_code":"0","sign":"605B9C78F53672C7ADDCBB6B5286C530","status":"0","third_order_id":"2018050120192325122"}
+
+2018-05-01 20:19:31:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120192325122","nonce_str":"RROJE7XC6778KM5CNU9BYKX8VJPNS8FO","sign":"F9E44D8E1AA182F2D6806BA59AAD8A3D"}
+
+2018-05-01 20:19:31:支付成功:{"resp_code":"0","amount":"1100","bank_type":"CFT","leshua_order_id":"1805012019204109","merchant_id":"6008005629","nonce_str":"A0KXMH4LB529EZ8CDTCBO30671L4HVOF","openid":"oRfOu1a14gnSN0YQOcXt0aeOaB1E","out_transaction_id":"4200000109201805010546041982","pay_time":"2018-05-01 20:19:31","pay_way":"WXZF","result_code":"0","sign":"F6C82E00EFE21C4D64908EF99A6174A9","status":"2","third_order_id":"2018050120192325122"}
+
+2018-05-01 20:28:16:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"HGWHWIWTPXDVME934KDCECUZY7CYIF44","sign":"E213F495A9F0080DFE81802018DC5A9E"}
+
+2018-05-01 20:28:21:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"78BLZO5BUN6GK91OKB8WR2RFEH1HHOA1","pay_way":"ZFBZF","result_code":"0","sign":"0A956E0AAFD646FF64EC996E00F23DA6","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:21:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"DP7AOJ6PRQJJWH61EO4N2L54K1PPHY8K","sign":"5206B7D6185802E15E95197959710029"}
+
+2018-05-01 20:28:27:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"S4AWM4B2GP6HCWB4J62ZM3NE52Y3ONQH","pay_way":"ZFBZF","result_code":"0","sign":"1A91EF5BD543D24729301B5167F1E795","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:27:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"2C6RYH0OKHV91TPJUWQGSLF7A3H1LDXJ","sign":"79FEB26892D2DA21872F7DE2915FB0B0"}
+
+2018-05-01 20:28:32:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"MVBK3833WNVM5RD63RGIQDVCUEAH5JKA","pay_way":"ZFBZF","result_code":"0","sign":"114EE91C6BA2130A50FFC573E873D222","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:32:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"7NCQCM62UYSJECIYMV788UXA4Q2UZ1TP","sign":"4D26F40ABE0E2E351042AC138D3D9DD7"}
+
+2018-05-01 20:28:38:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"HJDJL9M7NDN4052OUXI32G9BKUKV2TJK","pay_way":"ZFBZF","result_code":"0","sign":"A0706AAA33D603325D30D02D07D4EA15","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:38:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"MFIYPEKS6B75MBVFUPEWXHFFYATMMGDR","sign":"EAC484FC9DE2DC089E4A8DB002A2ADB5"}
+
+2018-05-01 20:28:43:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"TIQTIU75L26DKWPD44DW832ILDGRIPEN","pay_way":"ZFBZF","result_code":"0","sign":"A2557C8E95AF79E1624E86E7E6982D44","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:43:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"VRHZA5CJQYH3BI2YORR9AK49WDBODHYT","sign":"AC37308D7D71376AD566924DB6AD2581"}
+
+2018-05-01 20:28:49:继续查询:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"V6PV2Z474XE2HI7OIXKQ6IDBWXY5NDMY","pay_way":"ZFBZF","result_code":"0","sign":"46CD707D914D12C2480381E15A2051FE","status":"0","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:28:49:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"XNMR0FAQ02IJ5MKX59P5HYXDR0ST87K9","sign":"63F8F7DCBE1673CEEDE374510F32529F"}
+
+2018-05-01 20:28:50:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120281453529","nonce_str":"9R4KVZ7JXBP9Q17IRL2CPYV30SF4TKAL","sign":"0D23F536E230A3ACD3D28B33CA67736F"}
+
+2018-05-01 20:28:50:支付失败:{"resp_code":"0","amount":"969","leshua_order_id":"1805012028130324","merchant_id":"6008005629","nonce_str":"ZJLNQFBGNWP3Y5AT6T9X2I0DW99HZQ05","pay_way":"ZFBZF","result_code":"0","sign":"C935674F17F8608C40C7B9C8E6BCA342","status":"6","third_order_id":"2018050120281453529"}
+
+2018-05-01 20:57:46:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120574541860","nonce_str":"GBE71ZAJLCMQ8IY866XZOJ729SIL2L5D","sign":"DA5C39CC0B5C08E9ADFB53EAB386890A"}
+
+2018-05-01 20:57:51:继续查询:{"resp_code":"0","amount":"1200","leshua_order_id":"1805012057405514","merchant_id":"6008005629","nonce_str":"L0AS2EJE46XXG1D0LB3SFB24Q87KGVRU","pay_way":"WXZF","result_code":"0","sign":"ECFB15D335D7B225631ACCA95FF9E7E5","status":"0","third_order_id":"2018050120574541860"}
+
+2018-05-01 20:57:51:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120574541860","nonce_str":"V7IAVYZVRYHZHNRKV5LJ4Y1ROI2TSVLP","sign":"C5781643FC01CB2C03E5237CCD846B5B"}
+
+2018-05-01 20:57:57:继续查询:{"resp_code":"0","amount":"1200","leshua_order_id":"1805012057405514","merchant_id":"6008005629","nonce_str":"YUX5D2L88V7AORNN9IIVNLEPI36S0JH3","pay_way":"WXZF","result_code":"0","sign":"6AC8A3FF54F24F504B0DA2F4E54A27E0","status":"0","third_order_id":"2018050120574541860"}
+
+2018-05-01 20:57:57:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050120574541860","nonce_str":"H8A0FXF5HZL2C0P16W5R1P95FX0LH4Q9","sign":"D67391822A00E468396E3BC4967E6665"}
+
+2018-05-01 20:57:57:支付成功:{"resp_code":"0","amount":"1200","bank_type":"CITIC_DEBIT","leshua_order_id":"1805012057405514","merchant_id":"6008005629","nonce_str":"FBJU7ILPU18JLLM3LDR2VAORP3WYQEBE","openid":"oRfOu1UGpHr8Rdfm03gGlY7RG1iE","out_transaction_id":"4200000123201805010269469753","pay_time":"2018-05-01 20:57:57","pay_way":"WXZF","result_code":"0","sign":"A749F53EDBA7FADE9BD2A8B7A448E75D","status":"2","third_order_id":"2018050120574541860"}
+
+2018-05-01 21:07:25:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"NT4767IBJ4K812RJ951ZDCRM2VZ7H1IC","sign":"C46FEDCF731867577AB1EFBB870E4044"}
+
+2018-05-01 21:07:31:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"41WAFVA1471C06BDD6CCX934A8RY1EU3","pay_way":"WXZF","result_code":"0","sign":"1E9DA8FAA5463A0879401A9B4E2E95B7","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:31:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"CTKJS62C0K8RYJJXIAIPB0JONKDKOXFY","sign":"EB3064EF281DAA2694235E5F8BFDF0D1"}
+
+2018-05-01 21:07:36:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"NS085UEHKBWYWPCVWU5V2LP4TTF79ZWS","pay_way":"WXZF","result_code":"0","sign":"80CB63ACBDFF29FEDDA87CFFB8766CBB","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:36:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"9IKWQT5PHF968EGIH2C4V5UQ1D45MYGO","sign":"A1D24562E678EDCCA56935121305883C"}
+
+2018-05-01 21:07:41:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"6N4CWLCUKCYNZVK7QV5G7Z07KLVYYH2K","pay_way":"WXZF","result_code":"0","sign":"A800DC53C43EFDB95C4E90EE11A41FC1","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:41:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"027MA19TMGSAVPUOW97MRGN11TBNFRS5","sign":"5BEA687F763FC94727C2DDC6B4BFD7F1"}
+
+2018-05-01 21:07:47:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"15ZSZEN5WVX3QE2K5AGTBJN81H6KOXK4","pay_way":"WXZF","result_code":"0","sign":"E18BCC34F97532BD4A63F0D2530120FC","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:47:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"TD332JXGGA9TO4UXB63SC6UNU58HEKWY","sign":"8C2B6DD515F0258E467721447B35F2CD"}
+
+2018-05-01 21:07:52:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"2834KJL4JGV7QADLHQJYD0B0G2M5X9Q0","pay_way":"WXZF","result_code":"0","sign":"EAF44739BFDEC8C3B41B511C14549D0B","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:52:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"OOIIEI17DJO535QPFVJXPYBVXY30H5LB","sign":"A389C35A270E18457D61F51BABBFBB09"}
+
+2018-05-01 21:07:58:继续查询:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"8K1SQY99WTR56AG88S1VR90EQK0S673W","pay_way":"WXZF","result_code":"0","sign":"E7BF0806D98AA18BB45406B64A45AEF0","status":"0","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:07:58:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"QZG4J99BTRS0NBDE8O897ITJIFE3SR1E","sign":"9FCDEE555DBA48C0D3195ED2DC02A1BB"}
+
+2018-05-01 21:07:58:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121072533816","nonce_str":"UB2JR9IU56IPT2Z96X0Z8CNZ4VPCYYHC","sign":"BA0A88FD333D2E71DB783A2EAEEA0885"}
+
+2018-05-01 21:07:59:支付失败:{"resp_code":"0","amount":"660","leshua_order_id":"1805012107208103","merchant_id":"6008005629","nonce_str":"U86QZKCV9QNRLRF0LG149S5QIZSDNEU2","pay_way":"WXZF","result_code":"0","sign":"309601A711CC96C805F5385E79F067DC","status":"6","third_order_id":"2018050121072533816"}
+
+2018-05-01 21:57:49:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121574820880","nonce_str":"5XNAL5AARYJOSICL0MEBK9THNNC7Q3YG","sign":"0F24D83F658A7242BD2AD886AB96756F"}
+
+2018-05-01 21:57:54:继续查询:{"resp_code":"0","amount":"690","leshua_order_id":"1805012157439435","merchant_id":"6008005629","nonce_str":"VVD0K1PTWLFBE03QQ03S1AF5GQZE8AEW","pay_way":"WXZF","result_code":"0","sign":"C466EEB031D997B3AA450B4DCCA46ADA","status":"0","third_order_id":"2018050121574820880"}
+
+2018-05-01 21:57:54:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050121574820880","nonce_str":"X3I3O6NF8712BWLVBH5AEEFOEW6WJY88","sign":"F3968BF2E5AC8EA493508490058CAF4F"}
+
+2018-05-01 21:57:55:支付成功:{"resp_code":"0","amount":"690","bank_type":"CFT","leshua_order_id":"1805012157439435","merchant_id":"6008005629","nonce_str":"6N6MHUJSI83XUVULLB13HM6JGY3452OM","openid":"oRfOu1ZLTEIUM4qsSBtbZeQnfExI","out_transaction_id":"4200000132201805010718648136","pay_time":"2018-05-01 21:57:54","pay_way":"WXZF","result_code":"0","sign":"4DEC74B8D9BE229333317A95BADE2901","status":"2","third_order_id":"2018050121574820880"}
+
+2018-05-01 23:09:00:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050123085967678","nonce_str":"JW24CEU1VPY82H7TH0EF7CN5YJ6SBF4W","sign":"E6FD261069E518C332C8D0DBA55E1292"}
+
+2018-05-01 23:09:05:继续查询:{"resp_code":"0","amount":"520","leshua_order_id":"1805012308505801","merchant_id":"6008005629","nonce_str":"1P36YLIRT8S9JCR1Q3QLOY5IQUQCYVSN","pay_way":"WXZF","result_code":"0","sign":"1B07AED2EF9121243FE4D65FDAE9C555","status":"0","third_order_id":"2018050123085967678"}
+
+2018-05-01 23:09:05:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050123085967678","nonce_str":"U2FZXHE96QJ9VAO9B0V3D0HNH9E7ZWXO","sign":"CA630719CE61A32705205620AA37922F"}
+
+2018-05-01 23:09:10:继续查询:{"resp_code":"0","amount":"520","leshua_order_id":"1805012308505801","merchant_id":"6008005629","nonce_str":"4GEB9SDX92AD1MM72KLY13EB2PTYECQN","pay_way":"WXZF","result_code":"0","sign":"A2E8BD97C38DCBDFFBE1E73DFF97456F","status":"0","third_order_id":"2018050123085967678"}
+
+2018-05-01 23:09:10:参数:{"merchant_id":"6008005629","service":"query_status","third_order_id":"2018050123085967678","nonce_str":"8Y4O8C55XOP2LF4EJU4YFGNZMXAXFFSO","sign":"8F13E1213DB779797FC8003A48989994"}
+
+2018-05-01 23:09:11:支付成功:{"resp_code":"0","amount":"520","bank_type":"CFT","leshua_order_id":"1805012308505801","merchant_id":"6008005629","nonce_str":"KO44C04F7NSCG3YTHNITWZUSYQAIOODB","openid":"oRfOu1a14gnSN0YQOcXt0aeOaB1E","out_transaction_id":"4200000110201805010724287399","pay_time":"2018-05-01 23:09:11","pay_way":"WXZF","result_code":"0","sign":"E0D5E05AC2E8FDA522B28902BEB18706","status":"2","third_order_id":"2018050123085967678"}
+

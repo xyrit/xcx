@@ -1,0 +1,4 @@
+2018-04-24 09:50:25:参数:{"service":"upload_authcode","pay_way":"WXZF","merchant_id":"3708004858","third_order_id":"2018042409502515290","amount":1,"client_ip":"27.129.172.12","t0":0,"notify_url":"https:\/\/sy.youngport.com.cn\/notify\/leshua_notify.php","auth_code":"134732049972098676","nonce_str":"YD7KB76N0ZUV77FR9TPOKYFAZB1UAEEZ","sign":"101E2573B335DFF0BEEB64AFBA849978"}
+
+2018-04-24 09:50:26:返回:{"resp_code":"0","error_msg":"\u8ba2\u5355\u63d0\u4ea4\u6210\u529f,0","leshua_order_id":"1804240950223906","merchant_id":"3708004858","nonce_str":"E466NGP24LZHX2DXSGTFX2YGALQA45JY","pay_way":"WXZF","result_code":"0","sign":"7BCDD7A8D3B5FA2846FF37CDB215AF20","status":"0","third_order_id":"2018042409502515290"}
+

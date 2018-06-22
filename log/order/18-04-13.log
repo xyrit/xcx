@@ -1,0 +1,118 @@
+2018-04-13 01:27:56 {"bill_begin_time":"20180412000000","bill_create_ip":"192.168.8.12","bill_end_time":"20180412235959","details":"TRUE","device_no":"996","nonce_str":"123456","sign":"7D77769FC959401CD07F98D817E329C5"}
+
+2018-04-13 01:28:04 {"bill_begin_time":"20180412120000","bill_create_ip":"192.168.8.12","bill_end_time":"20180413235959","details":"TRUE","device_no":"996","nonce_str":"123456","sign":"056D7EDEA073C12B2F1CA5956F14D83B"}
+
+2018-04-13 01:32:06 {"bill_begin_time":"20180412120000","bill_create_ip":"192.168.8.12","bill_end_time":"20180413235959","details":"TRUE","device_no":"996","nonce_str":"123456","sign":"056D7EDEA073C12B2F1CA5956F14D83B"}
+
+2018-04-13 01:32:08 {"bill_begin_time":"20180411014859","bill_create_ip":"192.168.8.12","bill_end_time":"20180414013140","details":"TRUE","device_no":"996","nonce_str":"123456","sign":"90A04090E981325C8AD5E98394F00E12"}
+
+2018-04-13 01:38:23 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.104","bill_end_time":"20180413235959","details":"TRUE","device_no":"14","nonce_str":"123456","sign":"B4960B481CAD9790B8685D8EDF45DC10"}
+
+2018-04-13 01:58:50 {"bill_begin_time":"20180412014043","bill_create_ip":"192.168.8.13","bill_end_time":"20180414015927","details":"TRUE","device_no":"1286","nonce_str":"123456","sign":"12093C1836832F4E813D0CC0F0FE41CF"}
+
+2018-04-13 02:09:01 {"bill_begin_time":"20180412014043","bill_create_ip":"192.168.8.13","bill_end_time":"20180414020938","details":"TRUE","device_no":"1286","nonce_str":"123456","sign":"8C6392D294D9ABC29AF18FA5BAFA690D"}
+
+2018-04-13 04:35:17 {"bill_begin_time":"20180411000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180412235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"9635E39122B9D048F10AD568B0BC889A"}
+
+2018-04-13 04:35:28 {"bill_begin_time":"20180411000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"ADA05DBCFD9CE1FD0FFECCF6F345641F"}
+
+2018-04-13 07:43:09 {"bill_begin_time":"20180411082000","bill_create_ip":"192.168.1.125","bill_end_time":"20180412235959","details":"TRUE","device_no":"8008171099228744","nonce_str":"123456","sign":"77F2470619717B0582364F409B5FFDFF"}
+
+2018-04-13 07:43:26 {"bill_begin_time":"20180413082000","bill_create_ip":"192.168.1.125","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171099228744","nonce_str":"123456","sign":"6B93CD0A2BF686DC1ACDC3DA951809D9"}
+
+2018-04-13 07:43:36 {"bill_begin_time":"20180412082000","bill_create_ip":"192.168.1.125","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171099228744","nonce_str":"123456","sign":"2FD9DCD854E6F28146E10A76E3955F8C"}
+
+2018-04-13 08:20:45 {"bill_begin_time":"20180412081808","bill_create_ip":"192.168.1.125","bill_end_time":"20180414082045","details":"TRUE","device_no":"8008171099228744","nonce_str":"123456","sign":"A5258B33DB428F54F5D49FF79EBC295D"}
+
+2018-04-13 08:59:17 {"bill_begin_time":"20180411000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"ADA05DBCFD9CE1FD0FFECCF6F345641F"}
+
+2018-04-13 08:59:25 {"bill_begin_time":"20180412000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"4C7469DD75BEEB46FB376AA8739C3DE6"}
+
+2018-04-13 09:00:25 {"bill_begin_time":"20180412040000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"69F89E9A7854EFB148017C522AC857EF"}
+
+2018-04-13 10:02:52 {"bill_begin_time":"20180412202327","bill_create_ip":"192.168.0.208","bill_end_time":"20180414100251","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"C5DE4C687493DB4ACFCEED615E124520"}
+
+2018-04-13 10:22:01 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.0.208","bill_end_time":"20180413235959","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"EBC218EA574A722F7FCDA7691B807690"}
+
+2018-04-13 10:47:29 {"bill_begin_time":"20180412135448","bill_create_ip":"192.168.1.102","bill_end_time":"20180414104727","details":"TRUE","device_no":"1317","nonce_str":"123456","sign":"5DB73C0282A03CE039DA6A07135D707B"}
+
+2018-04-13 10:55:33 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.3","bill_end_time":"20180413235959","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"D9D48C8E57CFDDE921065647C1F292CE"}
+
+2018-04-13 10:56:42 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.3","bill_end_time":"20180413235959","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"D9D48C8E57CFDDE921065647C1F292CE"}
+
+2018-04-13 11:30:07 {"bill_begin_time":"20180412135448","bill_create_ip":"192.168.1.102","bill_end_time":"20180414113005","details":"TRUE","device_no":"1317","nonce_str":"123456","sign":"48B380E044D1F850AC0DC9C1B42CFA2B"}
+
+2018-04-13 13:31:35 {"bill_begin_time":"20180413095620","bill_create_ip":"192.168.0.208","bill_end_time":"20180414133134","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"7AEDC50142433E27BA459780B73422A0"}
+
+2018-04-13 13:33:45 {"bill_begin_time":"20180413095620","bill_create_ip":"192.168.0.208","bill_end_time":"20180414133344","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"EC8DFEAD2631F39A06CC6017A244D8E9"}
+
+2018-04-13 13:34:16 {"bill_begin_time":"20180413095620","bill_create_ip":"192.168.0.208","bill_end_time":"20180414133415","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"DA10406A6375D6B38D76046D6C04E22D"}
+
+2018-04-13 13:35:14 {"bill_begin_time":"20180412135448","bill_create_ip":"192.168.1.102","bill_end_time":"20180414133511","details":"TRUE","device_no":"1317","nonce_str":"123456","sign":"1AAB077C8963CA879639E33F3D9CD87D"}
+
+2018-04-13 13:45:46 {"bill_begin_time":"20180413095620","bill_create_ip":"192.168.0.208","bill_end_time":"20180414134545","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"57533D985F1282C7E2A525D0B88B5044"}
+
+2018-04-13 14:01:03 {"bill_begin_time":"20180412135448","bill_create_ip":"192.168.1.102","bill_end_time":"20180414140100","details":"TRUE","device_no":"1317","nonce_str":"123456","sign":"998D5602FE091067DEECCCFF450D3211"}
+
+2018-04-13 14:40:43 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.103","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171100101937","nonce_str":"123456","sign":"B84EF905FB1DF79024EDC1D487D5562C"}
+
+2018-04-13 14:42:55 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.3","bill_end_time":"20180413235959","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"D9D48C8E57CFDDE921065647C1F292CE"}
+
+2018-04-13 14:43:05 {"bill_begin_time":"20180412000000","bill_create_ip":"192.168.1.3","bill_end_time":"20180412235959","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"B14F99C0EAF0B12FED6014B5DA7B29BB"}
+
+2018-04-13 16:04:42 {"bill_begin_time":"20180408000000","bill_create_ip":"192.168.1.2","bill_end_time":"20180408235959","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"63EA0AA9D2A07018580013E40C8B90FE"}
+
+2018-04-13 16:04:43 {"bill_begin_time":"20180412212108","bill_create_ip":"192.168.1.2","bill_end_time":"20180414160447","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"3CBDE7DC34FBED1F3E4802AE2B51A35C"}
+
+2018-04-13 17:39:39 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.0.116","bill_end_time":"20180413235959","details":"TRUE","device_no":"1316","nonce_str":"123456","sign":"A8111B03C81EE8AA02883C74AE34EFBC"}
+
+2018-04-13 17:39:40 {"bill_begin_time":"20180412172513","bill_create_ip":"192.168.0.116","bill_end_time":"20180414174216","details":"TRUE","device_no":"1316","nonce_str":"123456","sign":"86ED896F7C9BEA60655806DF98807AFA"}
+
+2018-04-13 17:58:36 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.103","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171100101937","nonce_str":"123456","sign":"B84EF905FB1DF79024EDC1D487D5562C"}
+
+2018-04-13 20:03:16 {"bill_begin_time":"20180413134533","bill_create_ip":"192.168.0.208","bill_end_time":"20180414200315","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"DBEB635A46CEF41FE13EDF089F586361"}
+
+2018-04-13 20:29:15 {"bill_begin_time":"20180413134533","bill_create_ip":"192.168.0.208","bill_end_time":"20180414202913","details":"TRUE","device_no":"1343","nonce_str":"123456","sign":"21E4F3F8050C34FF022833F6A4D9B561"}
+
+2018-04-13 20:34:53 {"bill_begin_time":"20180412204534","bill_create_ip":"192.168.1.8","bill_end_time":"20180414203456","details":"TRUE","device_no":"12","nonce_str":"123456","sign":"9DFE49C856D2E461B7FC3C6297D43A07"}
+
+2018-04-13 20:35:27 {"bill_begin_time":"20180409000000","bill_create_ip":"192.168.1.8","bill_end_time":"20180409235959","details":"TRUE","device_no":"12","nonce_str":"123456","sign":"3BB88908E2FB9D4319A286B159D3C39B"}
+
+2018-04-13 20:35:31 {"bill_begin_time":"20180413202108","bill_create_ip":"192.168.1.8","bill_end_time":"20180414203535","details":"TRUE","device_no":"12","nonce_str":"123456","sign":"6A8FFFBDB31016D3C4B35BE98146503F"}
+
+2018-04-13 20:47:25 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"7D29E6E3465813AF006CE631083A1E70"}
+
+2018-04-13 21:15:40 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.103","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171100101937","nonce_str":"123456","sign":"B84EF905FB1DF79024EDC1D487D5562C"}
+
+2018-04-13 21:30:32 {"bill_begin_time":"20180412205113","bill_create_ip":"192.168.1.4","bill_end_time":"20180414213035","details":"TRUE","device_no":"13","nonce_str":"123456","sign":"CFF751D0F0F7F079576E469F39B09D46"}
+
+2018-04-13 21:30:56 {"bill_begin_time":"20180409000000","bill_create_ip":"192.168.1.4","bill_end_time":"20180409235959","details":"TRUE","device_no":"13","nonce_str":"123456","sign":"5F051C1EDA2A401B2A7C76E0B3A2BFCD"}
+
+2018-04-13 21:31:49 {"bill_begin_time":"20180413211902","bill_create_ip":"192.168.1.4","bill_end_time":"20180414213152","details":"TRUE","device_no":"13","nonce_str":"123456","sign":"71AEA0B6393DB28346A1444934DA90AA"}
+
+2018-04-13 21:31:54 {"bill_begin_time":"20180413211902","bill_create_ip":"192.168.1.4","bill_end_time":"20180414213157","details":"TRUE","device_no":"13","nonce_str":"123456","sign":"64EA29959C5DFF3FAF943AAD6A34CA86"}
+
+2018-04-13 21:39:34 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.103","bill_end_time":"20180413235959","details":"TRUE","device_no":"8008171100101937","nonce_str":"123456","sign":"B84EF905FB1DF79024EDC1D487D5562C"}
+
+2018-04-13 21:51:25 {"bill_begin_time":"20180412204703","bill_create_ip":"192.168.1.103","bill_end_time":"20180414215120","details":"TRUE","device_no":"8008171100101937","nonce_str":"123456","sign":"FC84ABFEAA9A4D9F5629407F6BD8B482"}
+
+2018-04-13 21:55:12 {"bill_begin_time":"20180413155608","bill_create_ip":"192.168.1.2","bill_end_time":"20180414215511","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"954FF386EDE9A73F1D21BFE6A05E9016"}
+
+2018-04-13 21:56:14 {"bill_begin_time":"20180408000000","bill_create_ip":"192.168.1.2","bill_end_time":"20180408235959","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"63EA0AA9D2A07018580013E40C8B90FE"}
+
+2018-04-13 21:56:22 {"bill_begin_time":"20180413214405","bill_create_ip":"192.168.1.2","bill_end_time":"20180414215621","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"D40FA54237059AADB23617A595B7AA65"}
+
+2018-04-13 21:56:31 {"bill_begin_time":"20180413214405","bill_create_ip":"192.168.1.2","bill_end_time":"20180414215633","details":"TRUE","device_no":"11","nonce_str":"123456","sign":"5916E1E39DABC621F9222743755B3403"}
+
+2018-04-13 22:00:30 {"bill_begin_time":"20180412212830","bill_create_ip":"192.168.1.3","bill_end_time":"20180414220025","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"69E3F2A9EDE677CB3B2E7FB03C30FE35"}
+
+2018-04-13 22:01:03 {"bill_begin_time":"20180413210219","bill_create_ip":"192.168.1.3","bill_end_time":"20180414220058","details":"TRUE","device_no":"1282","nonce_str":"123456","sign":"29F63A06004E13A50A1E74D80D3E435D"}
+
+2018-04-13 22:02:46 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.120","bill_end_time":"20180413235959","details":"TRUE","device_no":"1057","nonce_str":"123456","sign":"6BFFF802C16FC9E06C2C7392DD4E27F3"}
+
+2018-04-13 22:02:48 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.120","bill_end_time":"20180413235959","details":"TRUE","device_no":"1057","nonce_str":"123456","sign":"6BFFF802C16FC9E06C2C7392DD4E27F3"}
+
+2018-04-13 23:23:40 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"7D29E6E3465813AF006CE631083A1E70"}
+
+2018-04-13 23:24:11 {"bill_begin_time":"20180413000000","bill_create_ip":"192.168.1.190","bill_end_time":"20180413235959","details":"TRUE","device_no":"1112","nonce_str":"123456","sign":"7D29E6E3465813AF006CE631083A1E70"}
+

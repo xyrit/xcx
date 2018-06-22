@@ -1,0 +1,8 @@
+2018-05-09 15:09:03 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018050915090343370","result_code":"0","sign":"0D9EF8C4B7404B71CAAFBABA7F09811C","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-09 15:09:08 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018050915090824760","result_code":"0","sign":"A493FD3F85F04ECE653EF70A1B4BF986","sign_type":"MD5","status":"0","trade_state":"PAYERROR","trade_state_desc":"\u652f\u4ed8\u5931\u8d25\uff0c\u8bf7\u64a4\u9500\u8ba2\u5355","version":"2.0"}
+
+2018-05-09 16:40:53 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018050916405344762","result_code":"0","sign":"2F60FFB69BB1756C33AE0986AF911D3C","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
+
+2018-05-09 16:40:58 {"appid":"wx0781c1dea664cd9a","bank_type":"CFT","cash_fee":"800","charset":"UTF-8","fee_type":"CNY","is_subscribe":"N","mch_id":"101560281114","nonce_str":"2018050916405844780","openid":"o-Rj7wFRo6m7eBTqhZU98IVynfMI","out_trade_no":"2018050916404742681","out_transaction_id":"4200000133201805096056275763","result_code":"0","sign":"A98A5BA51010411AD72C6B2FC4FB5647","sign_type":"MD5","status":"0","time_end":"20180509164056","total_fee":"800","trade_state":"SUCCESS","trade_type":"pay.weixin.micropay","transaction_id":"101560281114201805095129501032","version":"2.0"}
+

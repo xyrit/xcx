@@ -1,0 +1,94 @@
+{:action('Base/head', '', 'widget')}
+<div class="main02">
+    <div class="news01">
+       <div class="news02">
+          <dl>
+             <dt>
+                <span class="newleft">最新动态</span>
+                <a href="2017.html"><img src="__PUBLIC__/img/more40.gif"></a>
+             </dt>
+             <dd>
+              <ul>
+              	{volist name="news" id="v"}
+              	 <li><span class="title"><a href="{:url('news',array('nav_id'=>$v['nav_id'],'id'=>$v['id']))}">{$v['name']}</a></span><span class="time">{:date('Y-m-d')}</span></li>
+               {/volist}
+              </ul>
+             </dd>
+          </dl>
+       </div>
+       <div class="news03">
+         <div class="new23">业务介绍</div>
+         <div class="new24">
+             <ul id="show02">
+                                   <li class="checked" id="title1" onclick="changeinv(1);"><em><b>{$config['title1']}</b></em></li>
+                                   <li id="title2" onclick="changeinv(2);" class=""><em><b>{$config['title2']}</b></em></li>
+                                   <li id="title3" onclick="changeinv(3);" class=""><em><b>{$config['title3']}</b></em></li>
+                             </ul>
+             <div class="new25">
+                               
+                                <a href="automation.html" id="title002" style="display:none;"><img src="__PUBLIC__/img/more3.gif"></a>
+                                <a href="Touchscreen1.html" id="title003" style="display:none;"><img src="__PUBLIC__/img/more3.gif"></a>
+                            </div>
+         </div>
+         <div class="news04">
+                         <div class="news20" id="title01">
+               <div class="new22">
+                   <span class="img"><img src="__ROOT__{$config['img1']}" width="134" height="80"></span>{$config['js1']}
+               </div>
+            
+             </div>
+                         <div class="news20" id="title02" style="display: none;">
+               <div class="new22">
+                   <span class="img"><img src="__ROOT__{$config['img2']}" width="134" height="80"></span>{$config['js2']}</p>
+               </div>
+             
+             </div>
+	          <div class="news20" id="title03" style="display: none;">
+	               <div class="new22">
+	               <span class="img"><img src="__ROOT__{$config['img3']}" width="134" height="80"></span>{$config['js3']}
+	               </div>
+	          </div>
+       </div>
+    </div>
+</div>
+</div>
+</div>
+<script>
+	
+       kkScroll(".yyaa1",".yybb1",".yycc1"," li",".yyl1",".yyr1",1,1,1,1);
+       kkScroll(".yyaa2",".yybb2",".yycc2"," li",".yyl2",".yyr2",1,1,1,1);
+       kkScroll(".yyaa3",".yybb3",".yycc3"," li",".yyl3",".yyr3",1,1,1,1);
+       kkScroll(".yyaa4",".yybb4",".yycc4"," li",".yyl4",".yyr4",1,1,1,1);
+    
+  function changeinv(v){
+		var clobj = document.getElementById("show02").getElementsByTagName("li");
+		for(var i=0;i<clobj.length;i++){
+		   var j = i + 1;
+		   if(v==j){
+			  document.getElementById("title"+j).className ="checked";
+			  document.getElementById("title0"+j).style.display = "";
+			  document.getElementById("title00"+j).style.display = "";
+		   }else{
+			  document.getElementById("title"+j).className = "";
+			  document.getElementById("title0"+j).style.display="none";
+			  document.getElementById("title00"+j).style.display="none";
+		   }
+		}
+	  }
+     changeinv(1);
+	 $(".left").hover(
+	 function(){
+	   $(this).addClass("left1"); 
+	 },function(){
+	   $(this).removeClass("left1"); 
+     });
+     
+	 $(".right").hover(
+	 function(){
+	   $(this).addClass("right1"); 
+	 },function(){
+	   $(this).removeClass("right1"); 
+     });
+
+</script>
+{:action('Base/footer', '', 'widget')}

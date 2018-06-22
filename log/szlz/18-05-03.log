@@ -1,0 +1,314 @@
+2018-05-03 00:34:24 {"merchant_id":"1493159782","key":"","authCode":"134582849911086354","order_sn":"2018050300342480375","price":600}
+
+2018-05-03 02:47:44 {"merchant_id":"1490350062","key":"","authCode":"134913685243600134","order_sn":"2018050302474499440","price":300}
+
+2018-05-03 03:59:30 {"merchant_id":"2088821827997030","key":"201711BBc699bef5cde842dba6fa5c6bdc706A03","authCode":"285464228123578369","order_sn":"2018050303593031199","price":300}
+
+2018-05-03 03:59:30 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201711BBc699bef5cde842dba6fa5c6bdc706A03","timestamp":"2018-05-03 03:59:30","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050303593031199\",\"scene\":\"bar_code\",\"auth_code\":\"285464228123578369\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050303593031199\",\"seller_id\":\"2088821827997030\",\"total_amount\":300,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"JzpOIQXn3GdWIlZMrlvaxTd4IWxJcSK5ig1XYw4qvaS0QeptQDuqknyBTiNSTQMLeI\/W77gKGiUuibfYkCBI1NgfBU7WkJySk0+ytE0PSUpt4dGMqpUMVX+jdhJ9WHW9VcIE9hsvTGimFE0Bamdb0bcjdmUZUzvdUm8kTGx6KvQ="}
+
+2018-05-03 03:59:31 {"alipay_trade_pay_response":{"code":"10000","msg":"Success","buyer_logon_id":"173****7222","buyer_pay_amount":"300.00","buyer_user_id":"2088722342469209","fund_bill_list":[{"amount":"300.00","fund_channel":"PCREDIT"}],"gmt_payment":"2018-05-03 03:59:31","invoice_amount":"300.00","out_trade_no":"2018050303593031199","point_amount":"0.00","receipt_amount":"300.00","total_amount":"300.00","trade_no":"2018050321001004200510680108"},"sign":"Wc28BPkTqqhluDWzb4O5JA9oPvQOmDOEdsYh8OsyS/itnXy3e10oB7Tlty21Xb9PE1FCgN/wlcWPr35VxKQNuZo1JlutD3epzpBPXoHQiElR4tFUcpjMXYSUcXq2V5KxksVP8CUEAIRdqsVitcSD6zNz0Q7DPMlrGAKMVEoQYHQ="}
+
+2018-05-03 07:42:04 {"merchant_id":"1499456762","key":"","authCode":"134979755497830343","order_sn":"2018050307420414242","price":8}
+
+2018-05-03 09:20:24 {"merchant_id":"1499456762","key":"","authCode":"134732864809833786","order_sn":"2018050309202497072","price":54}
+
+2018-05-03 09:33:36 {"merchant_id":"1499456762","key":"","authCode":"134729434213332385","order_sn":"2018050309333630257","price":108}
+
+2018-05-03 09:39:05 {"merchant_id":"1499456762","key":"","authCode":"134650461312107929","order_sn":"2018050309390538719","price":18}
+
+2018-05-03 09:40:40 {"merchant_id":"1493159782","key":"","authCode":"134982217694414746","order_sn":"2018050309404013360","price":300}
+
+2018-05-03 09:43:47 {"merchant_id":"1499456762","key":"","authCode":"135067193847499735","order_sn":"2018050309434776609","price":7}
+
+2018-05-03 09:44:55 {"merchant_id":"1499456762","key":"","authCode":"135047945245210411","order_sn":"2018050309445590512","price":6}
+
+2018-05-03 09:45:11 {"merchant_id":"2088822285099072","key":"201710BBaa55e11a995b41488709d94fe3bfbX07","authCode":"283570325195437802","order_sn":"2018050309451132480","price":2000}
+
+2018-05-03 09:45:11 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201710BBaa55e11a995b41488709d94fe3bfbX07","timestamp":"2018-05-03 09:45:11","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050309451132480\",\"scene\":\"bar_code\",\"auth_code\":\"283570325195437802\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050309451132480\",\"seller_id\":\"2088822285099072\",\"total_amount\":2000,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"NM4+Lu1ftobO3Yet210KznT7RgBuBC4djy6km6g3wmYpNfUZrteFEfFANxVB1uijA1elV8GWWObQxKhh8gWfVsRdy670ZZQsAvxRzNlJ8icvh8v2Dep635soK04s059JAm5R+\/xazERFOj2ARIkPppA\/bj4rAhq0GILQOjKvvKw="}
+
+2018-05-03 09:45:11 {"alipay_trade_pay_response":{"code":"10003","msg":" order success pay inprocess","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564"},"sign":"Ru4TROPQp1oj+O0Sr1lyvGrmZYZdupk8hFhDtQqHa5ibtnpIhcbqpB2CpbIWYhuADOXiiCuyGpLQr0o3VITwglF1eGMlUzHxiJMo7LXbfDVfQjWRaJw+xyrFLmZJQgahA15ZkK/p0qf/S2+xx/soKiQK18B3dkKivw2osrsgmZQ="}
+
+2018-05-03 09:45:11 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:15 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:20 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:24 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:28 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:32 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:36 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"WAIT_BUYER_PAY"},"sign":"mBoVg4E+aXlAoPTYkU2tkKam8tKqnMBQvOaVzw7Eriquk09jkvFui1BjhBDxZgvQLatJ53LOZxC5Yg02fiormqqZOfF1bJwLdhlOp69PG5EeJmwOo9oJ7M6ATzo4eekteP7yxoPoQw/GE/V2Lsydum+DFnenDgIjIuTxANxwMNA="}
+
+2018-05-03 09:45:40 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309451132480","point_amount":"0.00","receipt_amount":"0.00","total_amount":"2000.00","trade_no":"2018050321001004010527197564","trade_status":"TRADE_CLOSED"},"sign":"LVOr5WXvZyws5Mqj8A0T3fyJZ+RPvvQ6zmLlHZHCj+gZEW0Y+Tq3Ku7B3rY3MwhfBxtsj+DkAs2oGp8dlGIFkf/ACe6i2KxtpAUpH8oTykZ8BZj/1JUJhNkPLr0i6vM8Wqre/R3YoqABlDHOIAnw2lac6q3nxbQ5OKE2/CtsKO0="}
+
+2018-05-03 09:45:53 {"merchant_id":"1499456762","key":"","authCode":"134981744560920144","order_sn":"2018050309455335438","price":13}
+
+2018-05-03 09:45:59 {"merchant_id":"2088822285099072","key":"201710BBaa55e11a995b41488709d94fe3bfbX07","authCode":"281258023873205672","order_sn":"2018050309455998170","price":1400}
+
+2018-05-03 09:45:59 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201710BBaa55e11a995b41488709d94fe3bfbX07","timestamp":"2018-05-03 09:45:59","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050309455998170\",\"scene\":\"bar_code\",\"auth_code\":\"281258023873205672\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050309455998170\",\"seller_id\":\"2088822285099072\",\"total_amount\":1400,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"LglCy03qAv7mICrLg6nxjo9XU8CNKebeBebR4GRseSg+ey3m0UPl5v9SNEboTbQSbmGOiHa6b+1z4LEdXJFfkX1NoU5BN97qRzEvv3skfemO\/mYgZ57NJrJRac4ayxzqtVHGxzI63cPxPYy8UoFCG5dOdmbegAbTGxdaJo6YC6Y="}
+
+2018-05-03 09:46:00 {"alipay_trade_pay_response":{"code":"10003","msg":" order success pay inprocess","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309455998170","point_amount":"0.00","receipt_amount":"0.00","total_amount":"1400.00","trade_no":"2018050321001004010526971838"},"sign":"mpG1XKaWrAVS+BgL9mJGjmgyvHNKn+Zop+UsExjNGyFBXdB7MczEUg8wWbBh6h7Ou8TNKXRtmKwoc/Jb85+FE82m+h1AMorFkxmzSet689YhbVvlLybw0EdkR3KhxkIETe2UdorRT7aGEYA2mlkHfXtYSFAfkrH0QCQjt6Bw794="}
+
+2018-05-03 09:46:00 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309455998170","point_amount":"0.00","receipt_amount":"0.00","total_amount":"1400.00","trade_no":"2018050321001004010526971838","trade_status":"WAIT_BUYER_PAY"},"sign":"cz3Ns5ptr2jpn4wuHbXFEjuMu+fK8C3dH2xnwvAIw61bofUMvEd8ORgWOwSwxyLcuzLAPzJ77Ln9AX5RvJ1VmhHn/El7HFZdiGzF0H7NeX3L9KAgO5381IpWoqqkXTES+1GJ0xck9NnlquCs2joMWNgd9OD3T9Iq8/9jQKiyzgM="}
+
+2018-05-03 09:46:04 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"0.00","buyer_user_id":"2088102009797010","invoice_amount":"0.00","out_trade_no":"2018050309455998170","point_amount":"0.00","receipt_amount":"0.00","total_amount":"1400.00","trade_no":"2018050321001004010526971838","trade_status":"WAIT_BUYER_PAY"},"sign":"cz3Ns5ptr2jpn4wuHbXFEjuMu+fK8C3dH2xnwvAIw61bofUMvEd8ORgWOwSwxyLcuzLAPzJ77Ln9AX5RvJ1VmhHn/El7HFZdiGzF0H7NeX3L9KAgO5381IpWoqqkXTES+1GJ0xck9NnlquCs2joMWNgd9OD3T9Iq8/9jQKiyzgM="}
+
+2018-05-03 09:46:08 {"alipay_trade_query_response":{"code":"10000","msg":"Success","buyer_logon_id":"xcc***@163.com","buyer_pay_amount":"1400.00","buyer_user_id":"2088102009797010","fund_bill_list":[{"amount":"1400.00","fund_channel":"ALIPAYACCOUNT"}],"invoice_amount":"1400.00","out_trade_no":"2018050309455998170","point_amount":"0.00","receipt_amount":"1400.00","send_pay_date":"2018-05-03 09:46:04","total_amount":"1400.00","trade_no":"2018050321001004010526971838","trade_status":"TRADE_SUCCESS"},"sign":"l9zexAh8iC3Bj0z3e4fFRAYXQx9MSSS9Z3R3C3RFLNSa9c0d6/JTV9f8mcBpNB1I6Bh7vZprnfcPo4xFPd90/BVgRtH18XbwvhgLXSpj9DEaWv41H/u/1aaSIcptj7Rwu6I10RSK6LJ9fgW6+3+ZuOhqCiyJnopSnO2ZP9XK95s="}
+
+2018-05-03 09:46:21 {"merchant_id":"1490350062","key":"","authCode":"134989954168189720","order_sn":"2018050309462150842","price":600}
+
+2018-05-03 09:50:58 {"merchant_id":"1499456762","key":"","authCode":"135705764973831991","order_sn":"2018050309505863938","price":17}
+
+2018-05-03 10:15:06 {"merchant_id":"1499456762","key":"","authCode":"134918308547395995","order_sn":"2018050310150555081","price":5}
+
+2018-05-03 10:38:14 {"merchant_id":"1493159782","key":"","authCode":"134519454006313619","order_sn":"2018050310381477289","price":200}
+
+2018-05-03 10:57:42 {"merchant_id":"1493159782","key":"","authCode":"134640922681884334","order_sn":"2018050310574262020","price":200}
+
+2018-05-03 11:11:09 {"merchant_id":"1499456762","key":"","authCode":"134583896020164429","order_sn":"2018050311110967488","price":24}
+
+2018-05-03 11:12:22 {"merchant_id":"1499456762","key":"","authCode":"135057847325666137","order_sn":"2018050311122279911","price":9}
+
+2018-05-03 11:14:35 {"merchant_id":"1499456762","key":"","authCode":"134710448517849737","order_sn":"2018050311143564924","price":6}
+
+2018-05-03 11:19:59 {"merchant_id":"1499456762","key":"","authCode":"134581369085606995","order_sn":"2018050311195931519","price":9}
+
+2018-05-03 11:30:06 {"merchant_id":"1499456762","key":"","authCode":"134715940141462620","order_sn":"2018050311300667810","price":30}
+
+2018-05-03 11:51:57 {"merchant_id":"1499456762","key":"","authCode":"134639938110032310","order_sn":"2018050311515749687","price":11}
+
+2018-05-03 12:08:18 {"merchant_id":"1499456762","key":"","authCode":"134798782879755281","order_sn":"2018050312081830894","price":34.5}
+
+2018-05-03 12:34:10 {"merchant_id":"1499456762","key":"","authCode":"134699341297610518","order_sn":"2018050312341022370","price":58}
+
+2018-05-03 12:45:51 {"merchant_id":"1499456762","key":"","authCode":"134980968040031620","order_sn":"2018050312455152358","price":20}
+
+2018-05-03 13:02:19 {"merchant_id":"1499456762","key":"","authCode":"134597848493558336","order_sn":"2018050313021965841","price":16}
+
+2018-05-03 13:30:02 {"merchant_id":"1499456762","key":"","authCode":"134592420600851827","order_sn":"2018050313300260084","price":6}
+
+2018-05-03 13:37:23 {"merchant_id":"1499456762","key":"","authCode":"134667373210383734","order_sn":"2018050313372335326","price":14}
+
+2018-05-03 13:48:09 {"merchant_id":"2088821827997030","key":"201711BBc699bef5cde842dba6fa5c6bdc706A03","authCode":"280357676320158808","order_sn":"2018050313480984731","price":300}
+
+2018-05-03 13:48:09 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201711BBc699bef5cde842dba6fa5c6bdc706A03","timestamp":"2018-05-03 13:48:09","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050313480984731\",\"scene\":\"bar_code\",\"auth_code\":\"280357676320158808\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050313480984731\",\"seller_id\":\"2088821827997030\",\"total_amount\":300,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"o0ix8WjxhSuEa\/TWxmA+V+ej2\/4G0wvNokIaGwMpDvY1bwh0ru4Bfvg2HyCSuc6Uu84Q\/FNxfLwJxQ9FaUzeI0Ajfe4eWrS2eKuPe1GH2ymxJbVVUwEayZuSr9Am4ILJ0Oynn\/kPPtFp2DL6effwghPG6+JxkjH+KrWBKXzkYps="}
+
+2018-05-03 13:48:11 {"alipay_trade_pay_response":{"code":"10000","msg":"Success","buyer_logon_id":"151****1990","buyer_pay_amount":"300.00","buyer_user_id":"2088612831066508","fund_bill_list":[{"amount":"300.00","fund_channel":"ALIPAYACCOUNT"}],"gmt_payment":"2018-05-03 13:48:11","invoice_amount":"300.00","out_trade_no":"2018050313480984731","point_amount":"0.00","receipt_amount":"300.00","total_amount":"300.00","trade_no":"2018050321001004500521983472"},"sign":"tqUUUEwB2B67a8gtyyy/7fHq13UZb5Nr7Fi1P440Pucq+tFgyiO1CdO/F9ZJuzsCA5DAqnRNO6oDP1M2Yda8z01ilQr+3Puchm0l78g2ijG5GR9KkkQtC1KxrGXE2bNbby6kpd+s+9MmUQFZY9lVdpPa90mLb+PO7zvfLyXl6Xk="}
+
+2018-05-03 14:12:27 {"merchant_id":"1499456762","key":"","authCode":"135055338049601640","order_sn":"2018050314122783495","price":15}
+
+2018-05-03 14:21:16 {"merchant_id":"1499456762","key":"","authCode":"134626691074577844","order_sn":"2018050314211648801","price":8}
+
+2018-05-03 14:31:46 {"merchant_id":"1499456762","key":"","authCode":"135131132302253377","order_sn":"2018050314314662376","price":14}
+
+2018-05-03 14:33:19 {"merchant_id":"1490350062","key":"","authCode":"134721600091164006","order_sn":"2018050314331941850","price":200}
+
+2018-05-03 14:44:45 {"merchant_id":"1499456762","key":"","authCode":"134796796689759064","order_sn":"2018050314444537925","price":46}
+
+2018-05-03 14:45:36 {"merchant_id":"1499456762","key":"","authCode":"134613727401250837","order_sn":"2018050314453672213","price":28.5}
+
+2018-05-03 14:55:36 {"merchant_id":"1499456762","key":"","authCode":"134528735301105332","order_sn":"2018050314553612532","price":300}
+
+2018-05-03 15:03:13 {"merchant_id":"1499456762","key":"","authCode":"135028670907391768","order_sn":"2018050315031373210","price":10}
+
+2018-05-03 15:27:05 {"merchant_id":"1499456762","key":"","authCode":"134719684883067888","order_sn":"2018050315270588138","price":48}
+
+2018-05-03 15:31:22 {"merchant_id":"1499456762","key":"","authCode":"134533892651588199","order_sn":"2018050315312241680","price":24.5}
+
+2018-05-03 15:33:16 {"merchant_id":"1499456762","key":"","authCode":"135174897588785382","order_sn":"2018050315331612956","price":13}
+
+2018-05-03 15:36:16 {"merchant_id":"1499456762","key":"","authCode":"134937854456599782","order_sn":"2018050315361647992","price":48}
+
+2018-05-03 15:39:08 {"merchant_id":"1499456762","key":"","authCode":"134995451268123079","order_sn":"2018050315390829821","price":7.3}
+
+2018-05-03 15:53:07 {"merchant_id":"1499456762","key":"","authCode":"135098372077386504","order_sn":"2018050315530736404","price":16}
+
+2018-05-03 15:54:24 {"merchant_id":"1499456762","key":"","authCode":"134837496561157709","order_sn":"2018050315542436904","price":152}
+
+2018-05-03 15:54:52 {"merchant_id":"1499456762","key":"","authCode":"134639795390832976","order_sn":"2018050315545237825","price":38}
+
+2018-05-03 16:20:21 {"merchant_id":"1499456762","key":"","authCode":"135291846740139352","order_sn":"2018050316202178395","price":26}
+
+2018-05-03 16:26:04 {"merchant_id":"1499456762","key":"","authCode":"134790328370958484","order_sn":"2018050316260428882","price":34.5}
+
+2018-05-03 16:38:01 {"merchant_id":"1499456762","key":"","authCode":"134646323007550803","order_sn":"2018050316380122080","price":9.5}
+
+2018-05-03 16:50:27 {"merchant_id":"1499456762","key":"","authCode":"134756617405597619","order_sn":"2018050316502695902","price":15}
+
+2018-05-03 16:54:41 {"merchant_id":"1490350062","key":"","authCode":"134636662282017656","order_sn":"2018050316544124474","price":300}
+
+2018-05-03 16:55:04 {"merchant_id":"1490350062","key":"","authCode":"134782322805923861","order_sn":"2018050316550449818","price":200}
+
+2018-05-03 16:57:23 {"merchant_id":"1499456762","key":"","authCode":"135268269693929044","order_sn":"2018050316572381313","price":20}
+
+2018-05-03 16:58:13 {"merchant_id":"1499456762","key":"","authCode":"135052315728870271","order_sn":"2018050316581311900","price":23}
+
+2018-05-03 16:59:37 {"merchant_id":"2088821827997030","key":"201711BBc699bef5cde842dba6fa5c6bdc706A03","authCode":"289232521388499561","order_sn":"2018050316593748017","price":300}
+
+2018-05-03 16:59:37 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201711BBc699bef5cde842dba6fa5c6bdc706A03","timestamp":"2018-05-03 16:59:37","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050316593748017\",\"scene\":\"bar_code\",\"auth_code\":\"289232521388499561\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050316593748017\",\"seller_id\":\"2088821827997030\",\"total_amount\":300,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"IfVirNT5tQUNkeb5x4qf+b9bdr0BOl5t9FXHSDWDc7lzl+5m7InVYHFFxD1WgLKd4khNMiIuWzOTpE0x1azQY9tCrLHO4X7KAxohL2EdtgtnuzHtUPLyzk+Lvacr67vl+HL5mdvxVvF\/W0ynp6M8NhqZLAPItIGcupk7FBjds8M="}
+
+2018-05-03 16:59:39 {"alipay_trade_pay_response":{"code":"10000","msg":"Success","buyer_logon_id":"199****5149","buyer_pay_amount":"300.00","buyer_user_id":"2088802823442571","fund_bill_list":[{"amount":"300.00","fund_channel":"ALIPAYACCOUNT"}],"gmt_payment":"2018-05-03 16:59:39","invoice_amount":"300.00","out_trade_no":"2018050316593748017","point_amount":"0.00","receipt_amount":"300.00","total_amount":"300.00","trade_no":"2018050321001004570526842854"},"sign":"KAHXJzBkHUJmqz9CalqnaGtAmlxso+9U7ZzOBmFGxazTimo751em/RXFCrzTanj+5iFbwmytC0dpVCfWge8YCNcZV1KVhXrxAY5rG8XuGFZ4Jv0qsARH07EQRjIqaMW+qfZL3UdPzbCwSdv1ZoBNcGe1mGVAUIk20vYpIpxkCs4="}
+
+2018-05-03 17:00:35 {"merchant_id":"1499456762","key":"","authCode":"134514953106391877","order_sn":"2018050317003524275","price":41}
+
+2018-05-03 17:04:21 {"merchant_id":"1499456762","key":"","authCode":"134958136667467407","order_sn":"2018050317042112831","price":11}
+
+2018-05-03 17:14:42 {"merchant_id":"1499456762","key":"","authCode":"134947521791896578","order_sn":"2018050317144297437","price":20}
+
+2018-05-03 17:15:13 {"merchant_id":"1499456762","key":"","authCode":"134575786935327630","order_sn":"2018050317151394008","price":10}
+
+2018-05-03 17:28:07 {"merchant_id":"1499456762","key":"","authCode":"134529417805596353","order_sn":"2018050317280758461","price":28}
+
+2018-05-03 17:32:34 {"merchant_id":"1499456762","key":"","authCode":"135031758260167225","order_sn":"2018050317323473554","price":5}
+
+2018-05-03 17:37:13 {"merchant_id":"1499456762","key":"","authCode":"134682824116123249","order_sn":"2018050317371397270","price":24}
+
+2018-05-03 17:40:29 {"merchant_id":"1499456762","key":"","authCode":"134705159646024893","order_sn":"2018050317402947019","price":7}
+
+2018-05-03 17:42:50 {"merchant_id":"1499456762","key":"","authCode":"134541576126513714","order_sn":"2018050317425070634","price":33}
+
+2018-05-03 17:44:13 {"merchant_id":"1499456762","key":"","authCode":"135218823607523733","order_sn":"2018050317441367513","price":15}
+
+2018-05-03 17:52:20 {"merchant_id":"1499456762","key":"","authCode":"134546886790975761","order_sn":"2018050317522096535","price":78}
+
+2018-05-03 17:52:35 {"merchant_id":"1499456762","key":"","authCode":"134611723337664957","order_sn":"2018050317523569086","price":30}
+
+2018-05-03 17:55:27 {"merchant_id":"1499456762","key":"","authCode":"135304442782422941","order_sn":"2018050317552641046","price":92.5}
+
+2018-05-03 17:55:40 {"merchant_id":"1499456762","key":"","authCode":"135107074398316683","order_sn":"2018050317554038040","price":12}
+
+2018-05-03 17:56:17 {"merchant_id":"1499456762","key":"","authCode":"134874054079107119","order_sn":"2018050317561721000","price":16}
+
+2018-05-03 18:09:54 {"merchant_id":"1499456762","key":"","authCode":"134780682789070932","order_sn":"2018050318095420302","price":17}
+
+2018-05-03 18:13:35 {"merchant_id":"1499456762","key":"","authCode":"134906221848495304","order_sn":"2018050318133576659","price":3.5}
+
+2018-05-03 18:18:53 {"merchant_id":"1490350062","key":"","authCode":"134580839067735592","order_sn":"2018050318185335529","price":32}
+
+2018-05-03 18:26:01 {"merchant_id":"1493159782","key":"","authCode":"134720781972182544","order_sn":"2018050318260148194","price":200}
+
+2018-05-03 18:27:05 {"merchant_id":"1499456762","key":"","authCode":"134637743829191737","order_sn":"2018050318270598507","price":28}
+
+2018-05-03 18:27:33 {"merchant_id":"1499456762","key":"","authCode":"134905617677307807","order_sn":"2018050318273398926","price":15}
+
+2018-05-03 18:31:33 {"merchant_id":"1499456762","key":"","authCode":"134547989630081024","order_sn":"2018050318313313876","price":40}
+
+2018-05-03 18:34:13 {"merchant_id":"1499456762","key":"","authCode":"135194125753264830","order_sn":"2018050318341344053","price":183}
+
+2018-05-03 18:35:06 {"merchant_id":"1490350062","key":"","authCode":"134711953766582249","order_sn":"2018050318350656830","price":100}
+
+2018-05-03 18:43:47 {"merchant_id":"1499456762","key":"","authCode":"134542863596940657","order_sn":"2018050318434744541","price":43}
+
+2018-05-03 18:45:00 {"merchant_id":"1499456762","key":"","authCode":"134877525652802159","order_sn":"2018050318450097417","price":6}
+
+2018-05-03 18:48:36 {"merchant_id":"2088822285099072","key":"201710BBaa55e11a995b41488709d94fe3bfbX07","authCode":"285284746386358755","order_sn":"2018050318483623711","price":600}
+
+2018-05-03 18:48:36 {"app_id":"2017071207730667","method":"alipay.trade.pay","charset":"utf-8","sign_type":"RSA","app_auth_token":"201710BBaa55e11a995b41488709d94fe3bfbX07","timestamp":"2018-05-03 18:48:36","version":"1.0","biz_content":"{\"out_trade_no\":\"2018050318483623711\",\"scene\":\"bar_code\",\"auth_code\":\"285284746386358755\",\"subject\":\"\\u8ba2\\u5355\\u53f7:2018050318483623711\",\"seller_id\":\"2088822285099072\",\"total_amount\":600,\"extend_params\":{\"sys_service_provider_id\":\"2088721521881652\"}}","sign":"P1YXKkjqGDgd+BivV2+mPi+191JHrUQfECIlUU8QkhLE1NDtvPhwonexKAcpsXa8UxlrICRbEyJmEODKeM\/BNU5BIjFI14sYna0aXQljNM98yR2UjqNP9mt\/rj5wKkRIcqNFxxhNAM7T4Gw8Znv2kcX+hL59WXyw5kHL16Q1zLY="}
+
+2018-05-03 18:48:36 {"alipay_trade_pay_response":{"code":"10000","msg":"Success","buyer_logon_id":"189****3456","buyer_pay_amount":"600.00","buyer_user_id":"2088412946810070","fund_bill_list":[{"amount":"600.00","fund_channel":"PCREDIT"}],"gmt_payment":"2018-05-03 18:48:36","invoice_amount":"600.00","out_trade_no":"2018050318483623711","point_amount":"0.00","receipt_amount":"600.00","total_amount":"600.00","trade_no":"2018050321001004070531633972"},"sign":"SyzofYo4zLxPR+tPJYGYNQC3t61fSEn+98PlLN+2vCyojld0AL+dXVhWVao+Ez656dSTYV/JeAjB9BobeFuH4CvG6/uGW7EFPDyPhxhhNvSrK2hOIe3aWZnS3S7SatTzwXFSi3W2NncB1H68GLo9zY0LBXMyctJoDhk8UekPsfE="}
+
+2018-05-03 18:49:13 {"merchant_id":"1499456762","key":"","authCode":"134579603911464968","order_sn":"2018050318491353686","price":8}
+
+2018-05-03 18:50:02 {"merchant_id":"1499456762","key":"","authCode":"135290617203301020","order_sn":"2018050318500282546","price":21}
+
+2018-05-03 18:50:57 {"merchant_id":"1499456762","key":"","authCode":"134824994464298056","order_sn":"2018050318505726329","price":108}
+
+2018-05-03 19:04:22 {"merchant_id":"1499456762","key":"","authCode":"134700378137110004","order_sn":"2018050319042297641","price":15}
+
+2018-05-03 19:05:22 {"merchant_id":"1499456762","key":"","authCode":"134672251740405024","order_sn":"2018050319052292434","price":19}
+
+2018-05-03 19:12:17 {"merchant_id":"1499456762","key":"","authCode":"134868729485961314","order_sn":"2018050319121625614","price":16}
+
+2018-05-03 19:13:28 {"merchant_id":"1499456762","key":"","authCode":"134638865403011282","order_sn":"2018050319132796955","price":27}
+
+2018-05-03 19:13:45 {"merchant_id":"1499456762","key":"","authCode":"134759761441667841","order_sn":"2018050319134551616","price":14}
+
+2018-05-03 19:19:01 {"merchant_id":"1499456762","key":"","authCode":"135059439233590218","order_sn":"2018050319190195227","price":11}
+
+2018-05-03 19:20:46 {"merchant_id":"1499456762","key":"","authCode":"134748969302916246","order_sn":"2018050319204644904","price":19.1}
+
+2018-05-03 19:21:13 {"merchant_id":"1499456762","key":"","authCode":"134663995238585151","order_sn":"2018050319211373875","price":6}
+
+2018-05-03 19:22:58 {"merchant_id":"1493159782","key":"","authCode":"134950972323132370","order_sn":"2018050319225838996","price":200}
+
+2018-05-03 19:24:55 {"merchant_id":"1499456762","key":"","authCode":"134674184885761464","order_sn":"2018050319245413641","price":49}
+
+2018-05-03 19:39:08 {"merchant_id":"1499456762","key":"","authCode":"134551105733860798","order_sn":"2018050319390814106","price":1}
+
+2018-05-03 19:40:44 {"merchant_id":"1499456762","key":"","authCode":"134751140253582461","order_sn":"2018050319404499794","price":43.5}
+
+2018-05-03 19:44:07 {"merchant_id":"1499456762","key":"","authCode":"134657728957790199","order_sn":"2018050319440743462","price":27}
+
+2018-05-03 19:48:47 {"merchant_id":"1499456762","key":"","authCode":"134948872015733352","order_sn":"2018050319484733691","price":12}
+
+2018-05-03 19:49:30 {"merchant_id":"1499456762","key":"","authCode":"134535671832318845","order_sn":"2018050319493076968","price":49}
+
+2018-05-03 19:49:37 {"merchant_id":"1499456762","key":"","authCode":"134534455753542580","order_sn":"2018050319493714854","price":24}
+
+2018-05-03 19:51:56 {"merchant_id":"1499456762","key":"","authCode":"134987784529624147","order_sn":"2018050319515670397","price":11}
+
+2018-05-03 19:58:07 {"merchant_id":"1499456762","key":"","authCode":"134689072533941181","order_sn":"2018050319580742974","price":12}
+
+2018-05-03 19:59:48 {"merchant_id":"1499456762","key":"","authCode":"134643191198481322","order_sn":"2018050319594824614","price":94}
+
+2018-05-03 20:01:32 {"merchant_id":"1499456762","key":"","authCode":"135062704961984246","order_sn":"2018050320013261253","price":14.5}
+
+2018-05-03 20:16:32 {"merchant_id":"1499456762","key":"","authCode":"134870579071446230","order_sn":"2018050320163234212","price":16}
+
+2018-05-03 20:19:39 {"merchant_id":"1499456762","key":"","authCode":"134602151250587759","order_sn":"2018050320193970686","price":6}
+
+2018-05-03 20:20:31 {"merchant_id":"1499456762","key":"","authCode":"134689286208772136","order_sn":"2018050320203117933","price":20}
+
+2018-05-03 20:21:53 {"merchant_id":"1499456762","key":"","authCode":"134574174117699832","order_sn":"2018050320215368322","price":18}
+
+2018-05-03 20:27:10 {"merchant_id":"1499456762","key":"","authCode":"134996238047376617","order_sn":"2018050320271060813","price":10}
+
+2018-05-03 20:28:44 {"merchant_id":"1499456762","key":"","authCode":"134868942283191737","order_sn":"2018050320284416556","price":14}
+
+2018-05-03 20:35:22 {"merchant_id":"1499456762","key":"","authCode":"134721725128140074","order_sn":"2018050320352213697","price":26}
+
+2018-05-03 20:41:20 {"merchant_id":"1499456762","key":"","authCode":"134518630715201242","order_sn":"2018050320412013128","price":16}
+
+2018-05-03 20:43:18 {"merchant_id":"1499456762","key":"","authCode":"134561232326236115","order_sn":"2018050320431849478","price":31.4}
+
+2018-05-03 20:47:57 {"merchant_id":"1499456762","key":"","authCode":"134600210790173088","order_sn":"2018050320475764314","price":22.4}
+
+2018-05-03 20:49:59 {"merchant_id":"1499456762","key":"","authCode":"135483947550574886","order_sn":"2018050320495986466","price":50}
+
+2018-05-03 20:50:45 {"merchant_id":"1499456762","key":"","authCode":"134993891822202051","order_sn":"2018050320504554097","price":85}
+
+2018-05-03 20:52:37 {"merchant_id":"1499456762","key":"","authCode":"135358190736122987","order_sn":"2018050320523772461","price":12}
+
+2018-05-03 20:53:53 {"merchant_id":"1499456762","key":"","authCode":"135486019149078392","order_sn":"2018050320535317368","price":16}
+
+2018-05-03 20:56:09 {"merchant_id":"1499456762","key":"","authCode":"134529019961890722","order_sn":"2018050320560932926","price":14}
+
+2018-05-03 20:57:25 {"merchant_id":"1490350062","key":"","authCode":"134706500476840003","order_sn":"2018050320572540972","price":300}
+
+2018-05-03 20:58:13 {"merchant_id":"1499456762","key":"","authCode":"134536908132260548","order_sn":"2018050320581358182","price":10}
+
+2018-05-03 21:02:30 {"merchant_id":"1499456762","key":"","authCode":"134728898141687456","order_sn":"2018050321023014601","price":24}
+
+2018-05-03 21:06:36 {"merchant_id":"1499456762","key":"","authCode":"134871957519236806","order_sn":"2018050321063637449","price":12}
+
+2018-05-03 21:11:05 {"merchant_id":"1499456762","key":"","authCode":"134609190844664611","order_sn":"2018050321110547591","price":8}
+
+2018-05-03 21:19:26 {"merchant_id":"1499456762","key":"","authCode":"134725698808134376","order_sn":"2018050321192695975","price":15}
+
+2018-05-03 21:20:23 {"merchant_id":"1499456762","key":"","authCode":"134529978290116574","order_sn":"2018050321202360031","price":14}
+
+2018-05-03 21:25:11 {"merchant_id":"1499456762","key":"","authCode":"134658640987700153","order_sn":"2018050321251175184","price":30}
+
+2018-05-03 21:28:20 {"merchant_id":"1499456762","key":"","authCode":"134692172021491386","order_sn":"2018050321282030189","price":13}
+
+2018-05-03 21:40:42 {"merchant_id":"1499456762","key":"","authCode":"134839332053646026","order_sn":"2018050321404238948","price":17}
+
+2018-05-03 21:57:27 {"merchant_id":"1490350062","key":"","authCode":"134677654091692826","order_sn":"2018050321572776452","price":100}
+
+2018-05-03 22:36:00 {"merchant_id":"1490350062","key":"","authCode":"134550558074188801","order_sn":"2018050322360061925","price":300}
+
+2018-05-03 23:34:46 {"merchant_id":"1493159782","key":"","authCode":"134844033709322794","order_sn":"2018050323344623397","price":300}
+

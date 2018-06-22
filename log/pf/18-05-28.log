@@ -1,0 +1,4 @@
+2018-05-28 16:56:44 {"charset":"UTF-8","err_code":"USERPAYING","err_msg":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","mch_id":"102515302767","need_query":"Y","nonce_str":"1527497803","result_code":"1","sign":"9E3F659885C06682B304EFF18DB0C50F","sign_type":"MD5","status":"0","version":"2.0"}
+
+2018-05-28 17:13:24 {"appid":"wx290ce4878c94369d","bank_type":"LQT","cash_fee":"10","cash_fee_type":"CNY","charset":"UTF-8","fee_type":"CNY","is_subscribe":"N","mch_id":"102515302767","nonce_str":"1527498802","openid":"oMJGHs6hhpvgMmiGOEW4xapDesms","out_trade_no":"2018052817132230775","out_transaction_id":"4200000136201805286902682823","pay_result":"0","promotion_detail":"{}","result_code":"0","sign":"510141F9EB625116914413BF845E2103","sign_type":"MD5","status":"0","time_end":"20180528171323","total_fee":"10","trade_type":"pay.weixin.micropay","transaction_id":"102515302767201805285415977154","uuid":"4b9281e39dd99a06e14cbff07932a49a3","version":"2.0"}
+

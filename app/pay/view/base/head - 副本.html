@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0024)http://www.o-netcom.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>昂纳科技（集团）有限公司</title>
+<meta content=" " name="description">
+<meta content="" name="Keywords">
+<link href="__PUBLIC__/css/layout.back.css" rel="stylesheet" type="text/css" />
+<link href="__PUBLIC__/css/jquery.iFadeSlide.css" rel="stylesheet" type="text/css" />
+<script src="__PUBLIC__/js/jquery-1.3.2.min.js"></script>
+<script src="__PUBLIC__/js/jquery.iFadeSldie.pack.js"></script>
+<script src="__PUBLIC__/js/menu.js"></script>
+<link rel="icon" href="img/O-net.ico" type="image/x-icon" />
+<script>	
+$(function(){
+	$('div#slide').iFadeSlide();
+	$('div#slide_b').iFadeSlide({
+		field: $('div#slide_b a'),
+		icocon:$('div.ico_b'),
+        hoverCls: 'high_b',
+        curIndex: 1,
+        interval: 2000
+	});
+	$('div#slide_c').iFadeSlide({
+		field: $('div#slide_c img'),
+		icocon: $('div.ico_c'),
+		outTime:3000,
+		inTime: 3000
+	});	
+	$("#nav").superfish({ 
+		delay:       1500,                             
+		animation:   {opacity:'show',height:'show'},  
+		speed:       'fast',                          
+		autoArrows:  false,                           
+		dropShadows: false                           
+    }); 
+}); 
+</script>
+</head>
+<body>
+<div class="wrapper">
+<div class="header">
+   <div class="header2">
+       <div class="logo"><img src="__PUBLIC__/img/20120801063116_81875.gif" alt="昂纳科技集团，全球最大的光通信器材供应商之一，点击到达首页"></div>
+       <div class="language"><p><img src="__PUBLIC__/img/02.jpg" alt="picture of chinese"><a href="http://www.o-netcom.com/en/">Global - English</a><img src="__PUBLIC__/img/03.jpg" alt="picture of english"><a href="__PUBLIC__/img/昂纳科技（集团）有限公司.html">China - 中文</a></p></div>
+     </div>
+</div>  
+<div class="content01">
+  <div class="content05">
+    <div class="content06">
+    <div class="content02">
+      <div class="content03">
+        <div id="slide_c">
+            <a href="http://www.o-netcom.com/company.html"><img src="__PUBLIC__/img/20130717092823_68439.jpg" title="我们是领先的高科技产品提供商" alt="我们是领先的高科技产品提供商" style="display: none;"></a>
+            <a href="http://www.o-netcom.com/power1.html"><img src="__PUBLIC__/img/20130716080350_54942.jpg" title="我们研发高科技产品/创新的光通信产品" alt="我们研发高科技产品/创新的光通信产品" style="display: inline;"></a>
+            <a href="http://www.o-netcom.com/power1.html"><img src="__PUBLIC__/img/20130717093030_32068.jpg" title="我们为客户订制客户化需求/产品" alt="我们为客户订制客户化需求/产品" style="display: none;"></a>
+            <a href="http://www.o-netcom.com/company.html"><img src="__PUBLIC__/img/20130717092937_84229.jpg" title="我们从研发到制造,然后到销售" alt="我们从研发到制造,然后到销售" style="display: none;"></a>            
+            <a href="http://www.o-netcom.com/company.html"><img src="__PUBLIC__/img/20130717093119_48935.jpg" title="我们与客户一起成长并建立良好的口碑" alt="我们与客户一起成长并建立良好的口碑" style="display: none;"></a>             
+	   <div class="ico_c">
+	   </div>
+        </div>
+      </div>
+    </div>
+    <div class="content04">
+    <ul id="nav" class="sf-js-enabled">
+			{volist name="nav" id="v"}
+            <li class="about"><a class="topa" href="{:url($v['url']?:'nav',array('id'=>$v['id']))}">{$v['pname']}</a>
+					{if condition="isset($v['_child'])"}
+					<ul>
+							{volist name="v['_child']" id="vv"}
+							<li>
+							<a href="{:url('nav',array('id'=>$vv['id']))}">{$vv['name']}</a>
+							</li>
+							{/volist}
+                   </ul>
+				   {/if}
+              </li> 
+			  {/volist}
+           
+          </ul>
+  </div>
+    </div>
+  </div>
+</div>  
