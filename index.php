@@ -5,12 +5,9 @@
 // | Copyright (c) 2006-2016 http://thinkphp.cn All rights reserved.
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
-// +----------------------------------------------------------------------
-<<<<<<< HEAD
-// | Author: liu21st <liu21st@gmail.com>++
-=======
+// +-------------------------------------------------------------------  
+// | Author: liu21st <liu21st@gmail.com>520
 // | Author: liu21st <liu21st@gmail.com>
->>>>>>> 88b0778e76097eecb916ddbc865facb5a689579e
 // +----------------------------------------------------------------------
 // [ 应用入口文件 ]
 header('Access-Control-Allow-Origin: *');
