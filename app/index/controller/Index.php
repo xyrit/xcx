@@ -1,6 +1,11 @@
 <?php
 namespace app\index\controller;
 use think\Controller;
+
+/**
+ * Class Indexgit 
+ * @package app\index\controller
+ */
 class Index extends Controller
 {
    	public function push($os='iOS',$registrationId=0,$msg = '便利淘欢迎您'){
