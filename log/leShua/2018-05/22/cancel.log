@@ -1,4 +1,0 @@
-2018-05-22 17:13:58:参数:{"service":"close_order","merchant_id":"6008005629","third_order_id":"2018052217132219023","nonce_str":"S2RUT3SNAVO5VJFGRGKUYDVR7Y20921W","sign":"E052ACEF0E5531F3159683182E7C69BD"}
-
-2018-05-22 17:13:58:返回:{"resp_code":"0","amount":"1610","leshua_order_id":"1805221713222007","merchant_id":"6008005629","nonce_str":"9YTF9O0BQJ8RDGVI5I3RSV1ANDT6SNZS","pay_way":"ZFBZF","result_code":"0","sign":"B9ED9E55B831BF275A5DC717FF7ADCB7","status":"6","third_order_id":"2018052217132219023"}
-

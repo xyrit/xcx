@@ -1,4 +1,0 @@
-2018-05-18 11:02:58 {"appid":"wx0781c1dea664cd9a","charset":"UTF-8","mch_id":"101560281114","nonce_str":"2018051811025841337","result_code":"0","sign":"7A24E37BD239BEB0AC1319938D372C73","sign_type":"MD5","status":"0","trade_state":"USERPAYING","trade_state_desc":"\u9700\u8981\u7528\u6237\u8f93\u5165\u652f\u4ed8\u5bc6\u7801","version":"2.0"}
-
-2018-05-18 11:03:04 {"appid":"wx0781c1dea664cd9a","bank_type":"CFT","cash_fee":"1400","charset":"UTF-8","fee_type":"CNY","is_subscribe":"N","mch_id":"101560281114","nonce_str":"2018051811030358495","openid":"o-Rj7wDwZ-zRSNNxt3DPSfBojHxE","out_trade_no":"2018051811025227013","out_transaction_id":"4200000136201805182458247670","result_code":"0","sign":"527AA5CF6B0A9F74B4DCF61837A61BD7","sign_type":"MD5","status":"0","time_end":"20180518110259","total_fee":"1400","trade_state":"SUCCESS","trade_type":"pay.weixin.micropay","transaction_id":"101560281114201805181115742668","version":"2.0"}
-
