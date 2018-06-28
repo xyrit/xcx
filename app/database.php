@@ -13,12 +13,12 @@ return [
     // 数据库类型
     'type'           => 'mysql',
     // 服务器地址
-    'hostname'       => 'rm-wz9polh31wc54igp7.mysql.rds.aliyuncs.com',
+    'hostname'       => '139.224.74.153',
     // 数据库名
     'database'       => 'youngport',
     // 用户名
-    'username'       => 'youngport',
-    'password'       => '52f9i3^2r&jlk*wf#as!df',
+    'username'       => 'root',
+    'password'       => 'root@52YPT?.0',
 //
 // 'hostname'       => '139.224.74.153',
 //// 数据库名

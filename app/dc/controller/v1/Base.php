@@ -4,6 +4,8 @@ use app\dc\model\v1\User;
 use app\dc\model\v1\Message_dc;
 use think\Controller;
 use think\Db;
+use Lib\Subtable;
+
 //不需要token的类
 class Base extends controller
 {
@@ -11,6 +13,10 @@ class Base extends controller
 	private $sessionKey;
 	public function index(){
 			echo 111;
+		//$tableName=Subtable::getSubTableName('order');
+
+		$M=Subtable::getSubTableName('order');
+		print_r(db($M));
 			die;
 	}
 	public function post(){
@@ -491,6 +497,7 @@ class Base extends controller
     	
     }
     public function common_zf1(){
+		echo 1155;
     		$this->common_zf('dc201804161055161529','4200000082201804169672364896','1.01',3);
     	}
     private function xmlToArray($xml){   
