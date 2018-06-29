@@ -2,6 +2,7 @@
 namespace app\dc\model\v1;
 use think\Model;
 use think\Db;
+use Lib\Subtable;
 use app\dc\model\v1\OrderGoods;
 class Order extends Model
 {
@@ -739,7 +740,7 @@ class Order extends Model
     						
     				}
     				//记录流水
-    				if(!db::name('pay')->where('order_id',$order->order_id)->find()){
+    				if(!db::name(Subtable::getSubTableName('pay'))->where('order_id',$order->order_id)->find()){
     							$pay['merchant_id'] = db::name('merchants')->where('uid',$order->user_id)->value('id');
     							//查询openid
     							$pay['customer_id'] = $order->mid;
@@ -759,7 +760,7 @@ class Order extends Model
     							//先获得cate_id
     							$pay['cate_id'] = db('merchants_cate')->where('wx_bank',$bank_id)->where('merchant_id',$pay['merchant_id'])->order('id')->value('id'); 
     							$pay['cost_rate'] = db('merchants_pfpay')->where('merchant_id',$pay['merchant_id'])->value('wx_code');
-    							db::name('pay')->insert($pay);
+    							db::name(Subtable::getSubTableName('pay'))->insert($pay);
     				}
     				
     				$this->commit();
@@ -842,7 +843,7 @@ class Order extends Model
 					
 			}
 			//记录流水
-			if(!db::name('pay')->where('order_id',$order->order_id)->find()){
+			if(!db::name(Subtable::getSubTableName('pay'))->where('order_id',$order->order_id)->find()){
 				$pay['merchant_id'] = db::name('merchants')->where('uid',$order->user_id)->value('id');
 				//查询openid
 				$pay['customer_id'] = $order->mid;
@@ -882,7 +883,7 @@ class Order extends Model
 						$pay['cost_rate'] = 0;
 						break;
 				}
-				db::name('pay')->insert($pay);
+				db::name(Subtable::getSubTableName('pay'))->insert($pay);
 			}
 			
 			$this->commit();

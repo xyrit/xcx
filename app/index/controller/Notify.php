@@ -2,6 +2,7 @@
 namespace app\index\controller;
 use think\Controller;
 use think\Db;
+use Lib\Subtable;
 use app\index\model\Message_dc;
 class Notify extends controller{
 
@@ -239,7 +240,7 @@ WBDdsn6coSK8qlh4Jxv9dquCaymS9Y+lGzBh2o4n0jOF
     						model('wx')->moban('pay',$order_id);
     						$message = new Message_dc;
 				    		$message->push_order_message($order_id);
-				    		$pay = db::name('pay')->where('order_id',$order_id)->find();
+				    		$pay = db::name(Subtable::getSubTableName('pay'))->where('order_id',$order_id)->find();
     						curl_post('http://sy.youngport.com.cn/index.php?s=Api/Cloud/printer',array('remark'=>$pay['remark']));
     				}
     				//更新订单状态

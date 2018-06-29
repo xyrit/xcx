@@ -621,7 +621,7 @@ WBDdsn6coSK8qlh4Jxv9dquCaymS9Y+lGzBh2o4n0jOF
     						
     				}
     				//记录流水
-    				if(!db::name('pay')->where('order_id',$order->order_id)->find()){
+    				if(!db::name(Subtable::getSubTableName('pay'))->where('order_id',$order->order_id)->find()){
     							$pay['merchant_id'] = db::name('merchants')->where('uid',$order->user_id)->value('id');
     							//查询openid
     							$pay['customer_id'] = db::name('screen_mem')->where('id',$order->mid)->value('openid');
@@ -638,7 +638,7 @@ WBDdsn6coSK8qlh4Jxv9dquCaymS9Y+lGzBh2o4n0jOF
     							$pay['transId'] = $transaction_id;
     							$pay['status'] = 1;
     							$pay['bank'] = 2;
-    							db::name('pay')->insert($pay);
+    							db::name(Subtable::getSubTableName('pay'))->insert($pay);
     				}
     				$this->commit();
     				return $order->order_id;

@@ -2,6 +2,7 @@
 namespace app\dc\model\v1;
 use think\Model;
 use think\Db;
+use Lib\Subtable;
 class Pay extends Model
 {
 		public $name = 'order';
@@ -719,7 +720,7 @@ WBDdsn6coSK8qlh4Jxv9dquCaymS9Y+lGzBh2o4n0jOF
     						
     				}
     				//记录流水
-    				if(!db::name('pay')->where('order_id',$order->order_id)->find()){
+    				if(!db::name(Subtable::getSubTableName('pay'))->where('order_id',$order->order_id)->find()){
     							$pay['merchant_id'] = db::name('merchants')->where('uid',$order->user_id)->value('id');
     							//查询openid
     							$pay['customer_id'] = $order->mid;
@@ -741,7 +742,7 @@ WBDdsn6coSK8qlh4Jxv9dquCaymS9Y+lGzBh2o4n0jOF
     							$pay['cost_rate'] = db('merchants_pfpay')->where('merchant_id',$pay['merchant_id'])->value('wx_code');
     							file_put_contents('pay.txt',$pay['cost_rate']);
     							file_put_contents('pay1.txt','费率');
-    							db::name('pay')->insert($pay);
+    							db::name(Subtable::getSubTableName('pay'))->insert($pay);
     				}
     				
     				$this->commit();
