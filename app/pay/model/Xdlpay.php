@@ -136,7 +136,7 @@ class Xdlpay extends Model
     private function micropay()
     {
         $this->url = $this->server . 'sdkBarcodePay.json';
-        if (!$this->auth_code || !$this->id || $this->price < 0.01) $this->ajaxReturn(array("code" => "error", "msg" => "参数错误"));
+        if (!$this->auth_code || !$this->id || $this->price < 0.01) $this->error('参数错误');
 
         $this->cate_data = db('merchants_cate')->where(array('merchant_id'=>$this->id,'status'=>1))->find();
         $this->mercId = db('merchants_xdl')->where(array('m_id' => $this->cate_data['merchant_id']))->value('mercId');

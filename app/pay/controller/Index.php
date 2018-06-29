@@ -38,7 +38,7 @@ class Index extends Controller
 		//生成订单
 		$pay['merchant_id'] = db('merchants_pcsy')->where('device_no',$device_no)->value('mid');
 		$pay['merchant_id']=$pay['merchant_id']?:$device_no;
-		($res = db('merchants_cate')->where(array('merchant_id'=>$pay['merchant_id'],'status'=>1))->find()) || pc_err('未绑定商户');
+		($res = db('merchants_cate')->where(array('merchant_id'=>$pay['merchant_id'],'status'=>1,'checker_id'=>0))->find()) || pc_err('未绑定商户');
 
 		$param = [];
 		switch($pay['paystyle_id']){
@@ -62,7 +62,7 @@ class Index extends Controller
 
 		$Pay = model('pay');
 		switch($type){
-            case '4':
+            /*case '4':
                 $Pay = model('zspay');
                 $cost_rate = db('merchants_zspay')->where('merchant_id',$pay['merchant_id'])->value('payment_type1');
                 $cost_rate = $cost_rate/100;
@@ -70,7 +70,7 @@ class Index extends Controller
                 break;
             case '6':
                 $result = $Pay->jnms_micropay($param,$pay_type);
-                break;
+                break;*/
             case '7':
                 $cost_rate = db('merchants_xypay')->where('merchant_id',$pay['merchant_id'])->value('wx_code');
                 $result = $Pay->xy_micropay($param,$pay_type);

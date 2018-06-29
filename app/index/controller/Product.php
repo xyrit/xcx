@@ -99,7 +99,17 @@ class Product extends controller
     public function classify(){
         ($store_id = input('store_id',0)) || err('store_id is empty');
         $group = model('group')->group_lists($store_id);
-        $group_id = empty($group)?0:$group[0]['group_id'];
+        // $group_id = empty($group)?0:$group[0]['group_id'];
+        if (empty($group)) {
+            $group_id = 0;
+        }else{
+            if ($group[0]['res']) {
+                $group_id = $group[0]['res'][0]['group_id'];
+            }else{
+                $group_id = $group[0]['group_id'];
+            }
+            
+        }
         //获取所有商品
         $lists = model('product')->classify($store_id,$group_id);
         $data['cat_lists'] = $group;
@@ -118,7 +128,17 @@ class Product extends controller
         	$data = model('product')->lists($store_id,input('group_id'));
         }else{
         	$group = model('group')->groupLists($store_id);
-	        $group_id = empty($group)?0:$group[0]['group_id'];
+	        // $group_id = empty($group)?0:$group[0]['group_id'];
+	        if (empty($group)) {
+	            $group_id = 0;
+	        }else{
+	            if ($group[0]['res']) {
+	                $group_id = $group[0]['res'][0]['group_id'];
+	            }else{
+	                $group_id = $group[0]['group_id'];
+	            }
+	            
+	        }
 	        //获取所有商品
 	        $lists = model('product')->classGoods($store_id,$group_id);
 	        $data['cat_lists'] = $group;
