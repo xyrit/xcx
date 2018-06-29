@@ -21,6 +21,7 @@ class Base extends controller
         echo 111;
         $tableName = Subtable::getSubTableName('pay');
         print_r(db($tableName));# db('pay')改成db(Subtable::getSubTableName('pay'))
+        print_r(db::name($tableName)->where('id', 802)->find());
         die;
     }
 
@@ -517,7 +518,7 @@ class Base extends controller
             model('wx')->moban('pay', $order_id);    //模板消息
             $message = new Message_dc;
             $message->push_order_message($order_id); //推送订单
-            $pay = db::name('pay')->where('order_id', $order_id)->find();
+            $pay = db::name(Subtable::getSubTableName('pay'))->where('order_id', $order_id)->find();
             curl_post('http://sy.youngport.com.cn/index.php?s=Api/Cloud/printer', array('remark' => $pay['remark']));
         }
 
