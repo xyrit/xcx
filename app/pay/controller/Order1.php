@@ -20,7 +20,7 @@ class Order extends Controller
 			
 			$post['bill_begin_time'] = strtotime($post['bill_begin_time']);
 			$post['bill_end_time'] = strtotime($post['bill_end_time']);
-//			$lists = Db::name('pay')
+//			$lists = Db::name(Subtable::getSubTableName('pay'))
 //					  ->where('status','in','1,5')
 //					  ->where('mode',15)
 //					  ->select();
@@ -85,7 +85,7 @@ class Order extends Controller
 					$details[] = $detail; 
 			}
 			
-			add_log(Db::name('pay')->getLastSql());
+			add_log(Db::name(Subtable::getSubTableName('pay'))->getLastSql());
 //			p($lists);
 //			die;
 			//p($post);

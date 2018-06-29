@@ -1,6 +1,7 @@
 <?php
 namespace app\pay\model;
 use think\Model;
+use Lib\Subtable;
 class Lspay extends Model
 {
     private $url;
@@ -69,7 +70,7 @@ class Lspay extends Model
                     return $this->password($this->remark);
                 }else if($res_arr['status']=='2'){
                     $this->writeLog('micro.log', ':支付成功,返回',$res_arr);
-                    db("Pay")->where(array("remark" => $this->remark))
+                    db(Subtable::getSubTableName('pay'))->where(array("remark" => $this->remark))
                         ->update(array("status" => "1", "paytime" => time(), 'transId' => $res_arr['leshua_order_id']));
                     return ['transaction_id'=>$res_arr['leshua_order_id'],'price'=>$price];
                     //return array("code" => "success", "msg" => "成功", "data" => '支付成功');
@@ -94,13 +95,13 @@ class Lspay extends Model
         if ($result_arr['error_code'] == '0' && $result_arr['status'] == '2') {
             $order_sn = $result_arr['third_order_id'];
             $transId = $result_arr['leshua_order_id'];
-            $orderData = db("Pay")->where(array('remark' => $order_sn))->find();
+            $orderData = db(Subtable::getSubTableName('pay'))->where(array('remark' => $order_sn))->find();
             if ($orderData['status'] == 0) {
                 $save['transId'] = $transId;
                 $save['paytime'] = time();
                 $save['status'] = 1;
                 if(bccomp($orderData['price']*100, $result_arr['amount'], 3) === 0){
-                    db("Pay")->where(array('id'=>$orderData['id']))->update($save);
+                    db(Subtable::getSubTableName('pay'))->where(array('id'=>$orderData['id']))->update($save);
                     $this->writeLog('notify.log', ':支付成功',$result_arr);
                 } else {
                     $this->writeLog('notify.log', ':金额不等',$result_arr);
@@ -152,7 +153,7 @@ class Lspay extends Model
     // 查询订单状态
     public function query($remark)
     {
-        $pay_info = db('pay')->alias('p')
+        $pay_info = db(Subtable::getSubTableName('pay'))->alias('p')
             ->field('p.transId,ls.merchantId,ls.key')
             ->join('ypt_merchants_leshua ls','p.merchant_id=ls.m_id','LEFT')
             ->where(array('remark' => $remark))
@@ -270,7 +271,7 @@ class Lspay extends Model
         );
         $data['jmt_remark']=$jmt_remark?:'';
 
-        return db("pay")->insert($data);
+        return db(Subtable::getSubTableName('pay'))->insert($data);
     }
 
     private function password($remark)
@@ -291,7 +292,7 @@ class Lspay extends Model
                     }
                 }else if($query_res['status'] == 2){
                     $this->writeLog('query.log', ':支付成功', $query_res);
-                    db("Pay")->where(array("remark" => $remark))->update(array("status" => "1", "paytime" => time(), 'transId' => $query_res['leshua_order_id']));
+                    db(Subtable::getSubTableName('pay'))->where(array("remark" => $remark))->update(array("status" => "1", "paytime" => time(), 'transId' => $query_res['leshua_order_id']));
                     return ['transaction_id'=>$query_res['leshua_order_id'],'price'=>$query_res['amount']/100];
                     //return array("code" => "success", "msg" => "支付成功", "data" => '支付成功');
                 }else {

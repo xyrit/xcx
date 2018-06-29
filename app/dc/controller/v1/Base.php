@@ -20,7 +20,7 @@ class Base extends controller
     {
         echo 111;
         $tableName = Subtable::getSubTableName('pay');
-        print_r(db($tableName));# db('pay')改成db(Subtable::getSubTableName('pay'))
+        print_r(db($tableName));# db(Subtable::getSubTableName('pay'))改成db(Subtable::getSubTableName('pay'))
         print_r(db::name($tableName)->where('id', 802)->find());
         die;
     }

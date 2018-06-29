@@ -1,6 +1,7 @@
 <?php
 namespace app\pay\model;
 use think\Model;
+use Lib\Subtable;
 class Xdlpay extends Model
 {
     private $opSys; // 操作系统 0：ANDROID 1：IOS 2：windows 3:直连
@@ -30,7 +31,7 @@ class Xdlpay extends Model
     public function __construct()
     {
         parent::__construct();
-        $this->payModel = db('pay');
+        $this->payModel = db(Subtable::getSubTableName('pay'));
         $this->orgNo = '7170';//7170
         $this->mercId = '800290000005310';//800290000005310
         $this->trmNo = '95066032';//95066032
@@ -229,7 +230,7 @@ class Xdlpay extends Model
 
     public function pay_back($remark, $price_back)
     {
-        $pay = db("pay")->where("remark" , $remark)->find();
+        $pay = db(Subtable::getSubTableName('pay'))->where("remark" , $remark)->find();
         if (!$pay) {
             return array("code" => 'error', "msg" => "该订单不存在");
         }
@@ -253,7 +254,7 @@ class Xdlpay extends Model
         $return = $this->requestPost(json_encode($params));
         $result = json_decode(urldecode($return), true);
         if ($result['returnCode'] == '000000' && $result['result'] == 'S') {
-            db("pay")->where("remark='$remark'")->update(array("status" => 2, "back_status" => 1, "price_back" => $result['txnAmt'] / 100));
+            db(Subtable::getSubTableName('pay'))->where("remark='$remark'")->update(array("status" => 2, "back_status" => 1, "price_back" => $result['txnAmt'] / 100));
             $this->writlog('payback.log', '退款成功：' . urldecode($return));
             return array("code" => "success", "msg" => "成功", "data" => "退款成功");
         } else {
@@ -329,7 +330,7 @@ class Xdlpay extends Model
         $data['subject'] = "向" . $this->cate_data['jianchen'] . "支付" . $this->price . "元";
         $data['bank'] = 11;
         $data['cost_rate'] = $this->rate;
-        $return = db('pay')->insert($data);
+        $return = db(Subtable::getSubTableName('pay'))->insert($data);
         return $return;
     }
 

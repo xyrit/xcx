@@ -97,7 +97,7 @@ class Index extends Controller
 				
 				add_log(json_encode($pay));
 				//$pay['transaction_id'] = 
-				add_log(db('pay')->insert($pay));
+				add_log(db(Subtable::getSubTableName('pay'))->insert($pay));
 				pc_succ($return);
 	}
 	public function refund(){
@@ -110,7 +110,7 @@ class Index extends Controller
 				$post = '{"bill_create_ip":"192.168.2.151","device_no":"221116090000562B","nonce_str":"123456","pp_trade_no":"2017091817191994372","refund_code":"2017091518210995577","refund_fee":"1","sign":"1848FBE9E624FB403181E491879FEDFC"}';
 				$post = json_decode($post,true);			
 			}
-			$pay = db('pay')->where('remark',$post['pp_trade_no'])->find();
+			$pay = db(Subtable::getSubTableName('pay'))->where('remark',$post['pp_trade_no'])->find();
 			//p($pay);
 			$pay || pc_err('没有查到该订单');
 			$url = POST_URL.'/Api/Trade/refundtrade';
@@ -134,7 +134,7 @@ class Index extends Controller
 							try{
 									if($pay['id']){
 											//修改pay表的状态
-											Db::name('pay')->where('id',$pay['id'])->setField('status',2);
+											Db::name(Subtable::getSubTableName('pay'))->where('id',$pay['id'])->setField('status',2);
 									}
 									//添加一条数据库到pay_back表
 									$pay_back = [];

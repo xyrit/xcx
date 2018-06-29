@@ -155,7 +155,7 @@ class Goods extends controller
     //     // dump($count);
     //     foreach ($order as $key => $value) {
     //         // dump($value);
-    //         Db::name('pay')->where(array('remark'=>$value['order_sn']))->update(array('checker_id'=>$value['staff_id']));
+    //         Db::name(Subtable::getSubTableName('pay'))->where(array('remark'=>$value['order_sn']))->update(array('checker_id'=>$value['staff_id']));
     //     }
     // }
 
