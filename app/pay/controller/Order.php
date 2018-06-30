@@ -30,7 +30,7 @@ class Order extends Controller
 			$dev = [3203001,3203002,3203003,3203004,3203005,3203006,3203007];
 			if(in_array($post['device_no'],$dev)){
 					$lists = Db::field($field)
-			      ->table('ypt_pay')
+			      ->table(Subtable::getSubTableName('pay',[],'ypt_'))
 			      ->where('mode',15)
 			      ->where('merchant_id',$mid)
 			      ->where('status','in','1,2')
@@ -39,7 +39,7 @@ class Order extends Controller
 				  ->select();
 			}else{
 				  $lists = Db::field($field)
-			      ->table('ypt_pay')
+			      ->table(Subtable::getSubTableName('pay',[],'ypt_'))
 			      //->union('SELECT '.$field.' FROM ypt_pay where mode = 15 and merchant_id = 1')
 			      ->union('SELECT '.$field1.' FROM ypt_pay_back where merchant_id = '.$mid.' and paytime>'.$post['bill_begin_time'].' and paytime<'.$post['bill_end_time'].' order by paytime desc')
 			      ->where('mode',15)
