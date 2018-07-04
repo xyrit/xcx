@@ -327,14 +327,15 @@ class Order extends Model
 								$spec_key = $attr_id[$key];
 						}else{
 								$price = $goods['shop_price'];
-								$property = '';
+								$property = db::name('units')->where(array('id'=>$goods['units_id']))->value('unit_name');
 								$spec_key = 0;
 						}
 						
 						$order['total_amount'] += $price*$nums[$key];
 						$order['order_goods_num'] += $nums[$key];
 						$order['type'] = 1;
-						
+                        $order_good['group_id'] = $goods['group_id'];
+                        $order_good['bar_code'] = $goods['bar_code'];
 						$order_good['spec_key'] = $spec_key;
 						$order_good['goods_id'] = $v;
 						$order_good['goods_name'] = $goods['goods_name'];

@@ -151,6 +151,7 @@ class Order extends Model
 					return $this->error($v['goods_name'].'库存不足');
 				}
 				$order_good['goods_id'] = $v['goods_id'];
+                $order_good['goods_img'] = $v['goods_picture'];
 				$order_good['goods_name'] = $v['goods_name'];
 				$order_good['goods_price'] = $goods_info['shop_price'];
 				$order_good['spec_key'] = $v['attr_id'];
