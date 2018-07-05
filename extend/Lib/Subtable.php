@@ -11,7 +11,7 @@ namespace Lib;
 
 use think\Db;
 
-define('TABLE_ID', '1807');# 分表起始日期
+define('TABLE_ID', '1806');# 分表起始日期
 
 /**
  * 检查当前表是否存在
@@ -23,10 +23,19 @@ class Subtable
 {
 
     /**
-     * 根据条件返回表名
+     * 返回分表起始日期
+     * @return string
+     */
+    static public function beginDate()
+    {
+        return TABLE_ID;
+    }
+
+    /**
+     * 根据查询条件返回分表表名
      * @param string $tableName 原始表名
-     * @param array $param 条件
-     * @param null $tablePrefix 前缀
+     * @param array $param 查询条件
+     * @param null $tablePrefix 表前缀
      * @return string 分表表名
      */
     static public function getSubTableName($tableName = '', $param = array(), $tablePrefix = null)
@@ -39,7 +48,7 @@ class Subtable
         else if (date("ym", time()) < TABLE_ID) $SubTableName = $tablePrefix . $tableName;# 分表开始日期前返回原有表名
         else $SubTableName = $tablePrefix . $tableName . '_' . date("ym", time());# 返回按月分表
         $tableName = strtolower($tableName);
-        self::$tableName($tablePrefix ?: config("database.prefix") . $SubTableName);# 判断是否存在，不存在创建
+        self::$tableName($SubTableName);# 判断是否存在，不存在创建
 
         return $SubTableName;
     }
