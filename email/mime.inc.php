@@ -530,4 +530,34 @@ class decode_mail
         }
         return $preceding . $decoded . $this->decode_mime($rest);
     }
-} // end class define
+
+    /**
+     * 格式化头部信息 $headerinfo get_imap_header 的返回值
+     */
+    public function get_header_info($mail_header) {
+        $sender=$mail_header->from[0];
+        $sender_replyto=$mail_header->reply_to[0];
+        if(strtolower($sender->mailbox)!='mailer-daemon' && strtolower($sender->mailbox)!='postmaster') {
+            $mail_details=array(
+                'from'=>strtolower($sender->mailbox).'@'.$sender->host,
+                'fromName'=>$this->_decode_mime_str($sender->personal),
+                'toOth'=>strtolower($sender_replyto->mailbox).'@'.$sender_replyto->host,
+                'toNameOth'=>$this->_decode_mime_str($sender_replyto->personal),
+                'subject'=>$this->_decode_mime_str($mail_header->subject),
+                'to'=>strtolower($this->_decode_mime_str($mail_header->toaddress))
+            );
+        }
+        return $mail_details;
+    }
+
+    private function _decode_mime_str($string, $charset="UTF-8" ) {
+        $newString = '';
+        $elements=imap_mime_header_decode($string);
+        for($i=0;$i<count($elements);$i++) {
+            if($elements[$i]->charset == 'default') $elements[$i]->charset = 'iso-8859-1';
+            $newString .= iconv($elements[$i]->charset, $charset, $elements[$i]->text);
+        }
+        return $newString;
+    }
+
+}

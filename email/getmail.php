@@ -59,6 +59,8 @@ class getmail
         set_time_limit(0);   // 设置脚本最大执行时间 为0 永不过期
         include("pop3.inc.php");
         include("mime.inc.php");
+        include("decode.inc.php");
+        include("decode2.inc.php");
 
         $user = !empty($_REQUEST['user']) ? $_REQUEST['user'] : "247261497@163.com";# 邮箱用户名
         $pass = !empty($_REQUEST['user']) ? $_REQUEST['pass'] : "123456";# 邮箱密码
@@ -69,27 +71,33 @@ class getmail
 
         $rec = new pop3($host, 110, 2);
         $decoder = new decode_mail();
+        $decode=new mime_decode();
+        $decode2=new Decode_Mimemail();
+
         if (!$rec->open()) die($rec->err_str);
         if ($rec->debug) echo "open ";
         if (!$rec->login($user, $pass)) die($rec->err_str);
         if ($rec->debug) echo "login";
 
         if (!$rec->stat()) die($rec->err_str);
-        echo "共有" . $rec->messages . "封信件，共" . $rec->size . "字节大小\r\n";
+        echo "共有" . $rec->messages . "封信件，共" . $rec->size . "字节大小\r\n\r\n";
         if ($rec->messages > 0) {
             if (!$rec->listmail()) die($rec->err_str);
-            echo "有以下信件：\r\n";
+            echo "有以下信件：\r\n\r\n";
             if (1) {
                 for ($i = 1; $i <= count($rec->mail_list); $i++) {
                     echo "信件" . $rec->mail_list[$i]['num'] . "大小：" . $rec->mail_list[$i]['size'] . "\r\n";
                 }
 
                 $rec->getmail(8);
-                echo "\r\n邮件头的内容：\r\n";
+                echo "\r\n邮件头的内容：\r\n\r\n";
+               // var_dump($rec->head);exit;
                 for ($i = 0; $i < count($rec->head); $i++) {
-                    echo htmlspecialchars($rec->head[$i]) . "\r\n";
-                }
+                   // echo htmlspecialchars($rec->head[$i]) . "\r\n";
 
+                    echo $decode2->decode($rec->head[$i]). "\r\n";
+                }
+                exit;
                 echo "\r\n邮件正文　：\r\n";
                 $str = '';
                 for ($i = 0; $i < count($rec->body); $i++) {
